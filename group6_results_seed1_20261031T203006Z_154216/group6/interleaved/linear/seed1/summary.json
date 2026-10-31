@@ -1,0 +1,20 @@
+{
+  "group": 6,
+  "model": "linear",
+  "order": "interleaved",
+  "seed": 1,
+  "smoke_only": false,
+  "updates": 800,
+  "training_seconds": 2.589999182988322,
+  "device": "cpu",
+  "torch_threads": 1,
+  "initial_checkpoint_sha256": "16eb46d9b3870b02a6092452ad70f7970268f9a004616eba4ac99a23ae3622f9",
+  "snapshot_sha256": "d6e239038afbdbf4667c2a63c13c942817bc196fedab4355cd7e0d353ecdd65d",
+  "freeze_sha256": "5b095334de6612a9be6002a1f8d72b0a7f795e938bb699b05ca2dd85dd3d737b",
+  "training_timing": "step computation after batch fetch; excludes validation, testing, and plotting",
+  "test_windows": 118,
+  "test_mse": 0.23887448273461098,
+  "test_mae": 0.4069500165440713,
+  "zero_growth_mse": 0.237266274629731,
+  "zero_growth_mae": 0.3940425367484737
+}

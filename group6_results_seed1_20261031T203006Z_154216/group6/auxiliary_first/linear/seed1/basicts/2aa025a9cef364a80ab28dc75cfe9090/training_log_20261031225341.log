@@ -1,0 +1,91 @@
+2026-10-31 22:53:41,494 - BasicTS-study - INFO - Initializing training.
+2026-10-31 22:53:41,494 - BasicTS-study - INFO - Building train data loader.
+2026-10-31 22:53:42,881 - BasicTS-study - INFO - Set optim: Adam
+2026-10-31 22:53:42,881 - BasicTS-study - INFO - Building val data loader.
+2026-10-31 22:53:42,935 - BasicTS-study - INFO - Building test data loader.
+2026-10-31 22:53:42,988 - BasicTS-study - INFO - Total parameters: 75
+2026-10-31 22:53:42,988 - BasicTS-study - INFO - Trainable parameters: 75
+2026-10-31 22:53:43,120 - BasicTS-study - INFO - Start validation.
+2026-10-31 22:53:43,131 - BasicTS-study - INFO - Result <val>: [val/time: 0.01 (s), val/loss: 1.3922, val/MSE: 1.3922, val/MAE: 0.8138]
+2026-10-31 22:53:43,134 - BasicTS-study - INFO - Checkpoint /content/fredmd-group-curriculum-study/results/study/group6/auxiliary_first/linear/seed1/basicts/2aa025a9cef364a80ab28dc75cfe9090/Linear_best_val_MSE.pt saved
+2026-10-31 22:53:43,274 - BasicTS-study - INFO - Start validation.
+2026-10-31 22:53:43,288 - BasicTS-study - INFO - Result <val>: [val/time: 0.01 (s), val/loss: 1.3153, val/MSE: 1.3153, val/MAE: 0.7918]
+2026-10-31 22:53:43,291 - BasicTS-study - INFO - Checkpoint /content/fredmd-group-curriculum-study/results/study/group6/auxiliary_first/linear/seed1/basicts/2aa025a9cef364a80ab28dc75cfe9090/Linear_best_val_MSE.pt saved
+2026-10-31 22:53:43,450 - BasicTS-study - INFO - Start validation.
+2026-10-31 22:53:43,459 - BasicTS-study - INFO - Result <val>: [val/time: 0.01 (s), val/loss: 1.2506, val/MSE: 1.2506, val/MAE: 0.7707]
+2026-10-31 22:53:43,462 - BasicTS-study - INFO - Checkpoint /content/fredmd-group-curriculum-study/results/study/group6/auxiliary_first/linear/seed1/basicts/2aa025a9cef364a80ab28dc75cfe9090/Linear_best_val_MSE.pt saved
+2026-10-31 22:53:43,601 - BasicTS-study - INFO - Start validation.
+2026-10-31 22:53:43,610 - BasicTS-study - INFO - Result <val>: [val/time: 0.01 (s), val/loss: 1.2004, val/MSE: 1.2004, val/MAE: 0.7558]
+2026-10-31 22:53:43,613 - BasicTS-study - INFO - Checkpoint /content/fredmd-group-curriculum-study/results/study/group6/auxiliary_first/linear/seed1/basicts/2aa025a9cef364a80ab28dc75cfe9090/Linear_best_val_MSE.pt saved
+2026-10-31 22:53:43,762 - BasicTS-study - INFO - Start validation.
+2026-10-31 22:53:43,771 - BasicTS-study - INFO - Result <val>: [val/time: 0.01 (s), val/loss: 1.1593, val/MSE: 1.1593, val/MAE: 0.7424]
+2026-10-31 22:53:43,774 - BasicTS-study - INFO - Checkpoint /content/fredmd-group-curriculum-study/results/study/group6/auxiliary_first/linear/seed1/basicts/2aa025a9cef364a80ab28dc75cfe9090/Linear_best_val_MSE.pt saved
+2026-10-31 22:53:43,915 - BasicTS-study - INFO - Start validation.
+2026-10-31 22:53:43,925 - BasicTS-study - INFO - Result <val>: [val/time: 0.01 (s), val/loss: 1.1331, val/MSE: 1.1331, val/MAE: 0.7349]
+2026-10-31 22:53:43,929 - BasicTS-study - INFO - Checkpoint /content/fredmd-group-curriculum-study/results/study/group6/auxiliary_first/linear/seed1/basicts/2aa025a9cef364a80ab28dc75cfe9090/Linear_best_val_MSE.pt saved
+2026-10-31 22:53:44,073 - BasicTS-study - INFO - Start validation.
+2026-10-31 22:53:44,082 - BasicTS-study - INFO - Result <val>: [val/time: 0.01 (s), val/loss: 1.1090, val/MSE: 1.1090, val/MAE: 0.7282]
+2026-10-31 22:53:44,086 - BasicTS-study - INFO - Checkpoint /content/fredmd-group-curriculum-study/results/study/group6/auxiliary_first/linear/seed1/basicts/2aa025a9cef364a80ab28dc75cfe9090/Linear_best_val_MSE.pt saved
+2026-10-31 22:53:44,231 - BasicTS-study - INFO - Start validation.
+2026-10-31 22:53:44,240 - BasicTS-study - INFO - Result <val>: [val/time: 0.01 (s), val/loss: 1.0940, val/MSE: 1.0940, val/MAE: 0.7213]
+2026-10-31 22:53:44,245 - BasicTS-study - INFO - Checkpoint /content/fredmd-group-curriculum-study/results/study/group6/auxiliary_first/linear/seed1/basicts/2aa025a9cef364a80ab28dc75cfe9090/Linear_best_val_MSE.pt saved
+2026-10-31 22:53:44,373 - BasicTS-study - INFO - Start validation.
+2026-10-31 22:53:44,388 - BasicTS-study - INFO - Result <val>: [val/time: 0.01 (s), val/loss: 1.0795, val/MSE: 1.0795, val/MAE: 0.7144]
+2026-10-31 22:53:44,392 - BasicTS-study - INFO - Checkpoint /content/fredmd-group-curriculum-study/results/study/group6/auxiliary_first/linear/seed1/basicts/2aa025a9cef364a80ab28dc75cfe9090/Linear_best_val_MSE.pt saved
+2026-10-31 22:53:44,566 - BasicTS-study - INFO - Start validation.
+2026-10-31 22:53:44,576 - BasicTS-study - INFO - Result <val>: [val/time: 0.01 (s), val/loss: 1.0642, val/MSE: 1.0642, val/MAE: 0.7082]
+2026-10-31 22:53:44,578 - BasicTS-study - INFO - Checkpoint /content/fredmd-group-curriculum-study/results/study/group6/auxiliary_first/linear/seed1/basicts/2aa025a9cef364a80ab28dc75cfe9090/Linear_best_val_MSE.pt saved
+2026-10-31 22:53:44,713 - BasicTS-study - INFO - Start validation.
+2026-10-31 22:53:44,723 - BasicTS-study - INFO - Result <val>: [val/time: 0.01 (s), val/loss: 1.0575, val/MSE: 1.0575, val/MAE: 0.7036]
+2026-10-31 22:53:44,726 - BasicTS-study - INFO - Checkpoint /content/fredmd-group-curriculum-study/results/study/group6/auxiliary_first/linear/seed1/basicts/2aa025a9cef364a80ab28dc75cfe9090/Linear_best_val_MSE.pt saved
+2026-10-31 22:53:44,869 - BasicTS-study - INFO - Start validation.
+2026-10-31 22:53:44,878 - BasicTS-study - INFO - Result <val>: [val/time: 0.01 (s), val/loss: 1.0480, val/MSE: 1.0480, val/MAE: 0.7007]
+2026-10-31 22:53:44,880 - BasicTS-study - INFO - Checkpoint /content/fredmd-group-curriculum-study/results/study/group6/auxiliary_first/linear/seed1/basicts/2aa025a9cef364a80ab28dc75cfe9090/Linear_best_val_MSE.pt saved
+2026-10-31 22:53:45,025 - BasicTS-study - INFO - Start validation.
+2026-10-31 22:53:45,035 - BasicTS-study - INFO - Result <val>: [val/time: 0.01 (s), val/loss: 1.0369, val/MSE: 1.0369, val/MAE: 0.6970]
+2026-10-31 22:53:45,041 - BasicTS-study - INFO - Checkpoint /content/fredmd-group-curriculum-study/results/study/group6/auxiliary_first/linear/seed1/basicts/2aa025a9cef364a80ab28dc75cfe9090/Linear_best_val_MSE.pt saved
+2026-10-31 22:53:45,197 - BasicTS-study - INFO - Start validation.
+2026-10-31 22:53:45,207 - BasicTS-study - INFO - Result <val>: [val/time: 0.01 (s), val/loss: 1.0373, val/MSE: 1.0373, val/MAE: 0.6970]
+2026-10-31 22:53:45,365 - BasicTS-study - INFO - Start validation.
+2026-10-31 22:53:45,377 - BasicTS-study - INFO - Result <val>: [val/time: 0.01 (s), val/loss: 1.0346, val/MSE: 1.0346, val/MAE: 0.6949]
+2026-10-31 22:53:45,379 - BasicTS-study - INFO - Checkpoint /content/fredmd-group-curriculum-study/results/study/group6/auxiliary_first/linear/seed1/basicts/2aa025a9cef364a80ab28dc75cfe9090/Linear_best_val_MSE.pt saved
+2026-10-31 22:53:45,554 - BasicTS-study - INFO - Start validation.
+2026-10-31 22:53:45,563 - BasicTS-study - INFO - Result <val>: [val/time: 0.01 (s), val/loss: 1.0238, val/MSE: 1.0238, val/MAE: 0.6907]
+2026-10-31 22:53:45,568 - BasicTS-study - INFO - Checkpoint /content/fredmd-group-curriculum-study/results/study/group6/auxiliary_first/linear/seed1/basicts/2aa025a9cef364a80ab28dc75cfe9090/Linear_best_val_MSE.pt saved
+2026-10-31 22:53:45,725 - BasicTS-study - INFO - Start validation.
+2026-10-31 22:53:45,736 - BasicTS-study - INFO - Result <val>: [val/time: 0.01 (s), val/loss: 1.0094, val/MSE: 1.0094, val/MAE: 0.6857]
+2026-10-31 22:53:45,738 - BasicTS-study - INFO - Checkpoint /content/fredmd-group-curriculum-study/results/study/group6/auxiliary_first/linear/seed1/basicts/2aa025a9cef364a80ab28dc75cfe9090/Linear_best_val_MSE.pt saved
+2026-10-31 22:53:45,899 - BasicTS-study - INFO - Start validation.
+2026-10-31 22:53:45,908 - BasicTS-study - INFO - Result <val>: [val/time: 0.01 (s), val/loss: 0.9934, val/MSE: 0.9934, val/MAE: 0.6802]
+2026-10-31 22:53:45,910 - BasicTS-study - INFO - Checkpoint /content/fredmd-group-curriculum-study/results/study/group6/auxiliary_first/linear/seed1/basicts/2aa025a9cef364a80ab28dc75cfe9090/Linear_best_val_MSE.pt saved
+2026-10-31 22:53:46,065 - BasicTS-study - INFO - Start validation.
+2026-10-31 22:53:46,083 - BasicTS-study - INFO - Result <val>: [val/time: 0.01 (s), val/loss: 0.9831, val/MSE: 0.9831, val/MAE: 0.6785]
+2026-10-31 22:53:46,088 - BasicTS-study - INFO - Checkpoint /content/fredmd-group-curriculum-study/results/study/group6/auxiliary_first/linear/seed1/basicts/2aa025a9cef364a80ab28dc75cfe9090/Linear_best_val_MSE.pt saved
+2026-10-31 22:53:46,233 - BasicTS-study - INFO - Start validation.
+2026-10-31 22:53:46,245 - BasicTS-study - INFO - Result <val>: [val/time: 0.01 (s), val/loss: 0.9826, val/MSE: 0.9826, val/MAE: 0.6802]
+2026-10-31 22:53:46,248 - BasicTS-study - INFO - Checkpoint /content/fredmd-group-curriculum-study/results/study/group6/auxiliary_first/linear/seed1/basicts/2aa025a9cef364a80ab28dc75cfe9090/Linear_best_val_MSE.pt saved
+2026-10-31 22:53:46,399 - BasicTS-study - INFO - Start validation.
+2026-10-31 22:53:46,412 - BasicTS-study - INFO - Result <val>: [val/time: 0.01 (s), val/loss: 0.9797, val/MSE: 0.9797, val/MAE: 0.6796]
+2026-10-31 22:53:46,420 - BasicTS-study - INFO - Checkpoint /content/fredmd-group-curriculum-study/results/study/group6/auxiliary_first/linear/seed1/basicts/2aa025a9cef364a80ab28dc75cfe9090/Linear_best_val_MSE.pt saved
+2026-10-31 22:53:46,598 - BasicTS-study - INFO - Start validation.
+2026-10-31 22:53:46,607 - BasicTS-study - INFO - Result <val>: [val/time: 0.01 (s), val/loss: 0.9700, val/MSE: 0.9700, val/MAE: 0.6745]
+2026-10-31 22:53:46,611 - BasicTS-study - INFO - Checkpoint /content/fredmd-group-curriculum-study/results/study/group6/auxiliary_first/linear/seed1/basicts/2aa025a9cef364a80ab28dc75cfe9090/Linear_best_val_MSE.pt saved
+2026-10-31 22:53:46,766 - BasicTS-study - INFO - Start validation.
+2026-10-31 22:53:46,776 - BasicTS-study - INFO - Result <val>: [val/time: 0.01 (s), val/loss: 0.9611, val/MSE: 0.9611, val/MAE: 0.6704]
+2026-10-31 22:53:46,781 - BasicTS-study - INFO - Checkpoint /content/fredmd-group-curriculum-study/results/study/group6/auxiliary_first/linear/seed1/basicts/2aa025a9cef364a80ab28dc75cfe9090/Linear_best_val_MSE.pt saved
+2026-10-31 22:53:46,934 - BasicTS-study - INFO - Start validation.
+2026-10-31 22:53:46,944 - BasicTS-study - INFO - Result <val>: [val/time: 0.01 (s), val/loss: 0.9586, val/MSE: 0.9586, val/MAE: 0.6686]
+2026-10-31 22:53:46,946 - BasicTS-study - INFO - Checkpoint /content/fredmd-group-curriculum-study/results/study/group6/auxiliary_first/linear/seed1/basicts/2aa025a9cef364a80ab28dc75cfe9090/Linear_best_val_MSE.pt saved
+2026-10-31 22:53:47,123 - BasicTS-study - INFO - Start validation.
+2026-10-31 22:53:47,132 - BasicTS-study - INFO - Result <val>: [val/time: 0.01 (s), val/loss: 0.9547, val/MSE: 0.9547, val/MAE: 0.6673]
+2026-10-31 22:53:47,134 - BasicTS-study - INFO - Checkpoint /content/fredmd-group-curriculum-study/results/study/group6/auxiliary_first/linear/seed1/basicts/2aa025a9cef364a80ab28dc75cfe9090/Linear_best_val_MSE.pt saved
+2026-10-31 22:53:47,269 - BasicTS-study - INFO - Start validation.
+2026-10-31 22:53:47,278 - BasicTS-study - INFO - Result <val>: [val/time: 0.01 (s), val/loss: 0.9504, val/MSE: 0.9504, val/MAE: 0.6657]
+2026-10-31 22:53:47,280 - BasicTS-study - INFO - Checkpoint /content/fredmd-group-curriculum-study/results/study/group6/auxiliary_first/linear/seed1/basicts/2aa025a9cef364a80ab28dc75cfe9090/Linear_best_val_MSE.pt saved
+2026-10-31 22:53:47,407 - BasicTS-study - INFO - Start validation.
+2026-10-31 22:53:47,423 - BasicTS-study - INFO - Result <val>: [val/time: 0.01 (s), val/loss: 0.9464, val/MSE: 0.9464, val/MAE: 0.6644]
+2026-10-31 22:53:47,427 - BasicTS-study - INFO - Checkpoint /content/fredmd-group-curriculum-study/results/study/group6/auxiliary_first/linear/seed1/basicts/2aa025a9cef364a80ab28dc75cfe9090/Linear_best_val_MSE.pt saved
+2026-10-31 22:53:47,432 - BasicTS-study - INFO - The training finished at 2026-10-31 22:53:47
+2026-10-31 22:53:47,435 - BasicTS-study - INFO - Loading Checkpoint from '/content/fredmd-group-curriculum-study/results/study/group6/auxiliary_first/linear/seed1/final.pt'
+2026-10-31 22:53:47,450 - BasicTS-study - INFO - Result <test>: [test/time: 0.01 (s), test/loss: 0.4136, test/MSE: 0.4136, test/MAE: 0.5373]
+2026-10-31 22:53:47,451 - BasicTS-study - INFO - Test metrics saved to /content/fredmd-group-curriculum-study/results/study/group6/auxiliary_first/linear/seed1/basicts/2aa025a9cef364a80ab28dc75cfe9090/test_metrics.json.
