@@ -1,0 +1,15 @@
+{
+  "rule": "Four evenly spaced valid test windows, as prespecified in PLAN.md",
+  "positions": [
+    0,
+    39,
+    78,
+    117
+  ],
+  "forecast_origins": [
+    "2009-12-01",
+    "2013-03-01",
+    "2016-06-01",
+    "2019-09-01"
+  ]
+}

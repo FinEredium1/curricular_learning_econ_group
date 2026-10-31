@@ -1,0 +1,3 @@
+[submodule "fredmd-group-curriculum-study/vendor/BasicTS"]
+	path = fredmd-group-curriculum-study/vendor/BasicTS
+	url = https://github.com/GestaltCogTeam/BasicTS.git

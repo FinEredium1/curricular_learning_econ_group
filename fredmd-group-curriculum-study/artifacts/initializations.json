@@ -1,0 +1,53 @@
+{
+  "linear": {
+    "checkpoint": "initial_linear_seed1.pt",
+    "sha256": "16eb46d9b3870b02a6092452ad70f7970268f9a004616eba4ac99a23ae3622f9",
+    "class": "Linear",
+    "config": {
+      "input_len": 24,
+      "output_len": 3
+    },
+    "parameters": 75
+  },
+  "mlp": {
+    "checkpoint": "initial_mlp_seed1.pt",
+    "sha256": "4a7721816d787aab2f499a279521bf5c5c3ebeb613b2d5360616982878e050e6",
+    "class": "MLP",
+    "config": {
+      "input_len": 24,
+      "output_len": 3
+    },
+    "parameters": 1795
+  },
+  "patchtst": {
+    "checkpoint": "initial_patchtst_seed1.pt",
+    "sha256": "6af5a97a7e14678289da6657f0bd9e74a4aa88123bae73319be4b47172aaa67a",
+    "class": "PatchTSTForForecasting",
+    "config": {
+      "input_len": 24,
+      "output_len": 3,
+      "num_features": 1,
+      "num_classes": null,
+      "patch_len": 6,
+      "patch_stride": 3,
+      "padding": true,
+      "hidden_size": 32,
+      "n_heads": 4,
+      "intermediate_size": 128,
+      "hidden_act": "gelu",
+      "num_layers": 2,
+      "attn_dropout": 0.0,
+      "fc_dropout": 0.0,
+      "head_dropout": 0.0,
+      "norm_type": "layer_norm",
+      "individual_head": false,
+      "use_revin": false,
+      "affine": true,
+      "subtract_last": false,
+      "decomp": false,
+      "moving_avg": 25,
+      "output_attentions": false
+    },
+    "parameters": 26403
+  }
+}

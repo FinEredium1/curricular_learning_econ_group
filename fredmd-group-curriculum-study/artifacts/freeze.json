@@ -1,0 +1,38 @@
+{
+  "created_at_utc": "2026-10-31T18:43:02.365946+00:00",
+  "basicts_commit": "c2bb6e31e591167e84459775a21a62e70a5893ce",
+  "python": "3.11.7",
+  "versions": {
+    "BasicTS": "1.1.0",
+    "torch": "2.5.1",
+    "numpy": "1.26.4",
+    "pandas": "2.2.3",
+    "easy-torch": "1.3.3"
+  },
+  "files": {
+    "PLAN.md": "e484191640f142328484cfd702c8348b24c4098aa09000db0ce555c2638d1db6",
+    "artifacts/batches_seed1.json": "988d82c8239a79699f67b5355dbdbea4e77de14c4ec8154bcfaf041ddad0a832",
+    "artifacts/initial_linear_seed1.pt": "16eb46d9b3870b02a6092452ad70f7970268f9a004616eba4ac99a23ae3622f9",
+    "artifacts/initial_mlp_seed1.pt": "4a7721816d787aab2f499a279521bf5c5c3ebeb613b2d5360616982878e050e6",
+    "artifacts/initial_patchtst_seed1.pt": "6af5a97a7e14678289da6657f0bd9e74a4aa88123bae73319be4b47172aaa67a",
+    "artifacts/initializations.json": "c9b4e028d0d7305c33e826dbb20b73f5e682019f031920afec136f8181156eae",
+    "configs/protocol.json": "34f6d6c7f3cd0f9dedd3a295af205a10bcf1210674fbe3b6348f68ee9b26ede3",
+    "data/prepared/metadata.json": "bc5e20894996765948d90208f5bb270d618a58e3164dccb22c64c61f7eadffbd",
+    "data/prepared/standardized.npz": "85981488510cd67d0b8b3baa89e0ab3c215d5388f63d283e4782dd036a0f20f9",
+    "data/prepared/window_counts.csv": "2c434114584a3be235814998c0974e92a01c468875785a7d78d8d58bbae634c2",
+    "data/raw/fredmd_2026-09.csv": "d6e239038afbdbf4667c2a63c13c942817bc196fedab4355cd7e0d353ecdd65d",
+    "data/raw/fredmd_appendix0324.zip": "b51fd612fea7d067ab564b9e7e11ab0c654ecbccad042793dfbe4c2c9df2aa77",
+    "data/raw/sources.json": "70e5e091cd907c2787faf6fc8ed62b9e9b69525d9bf55d1979fa6558e21c558a",
+    "requirements.in": "9ed9ed042ff25bc0c358b6e05bf98a2031ea28c0f4d9c6bb71886eb6eab2d3b8",
+    "requirements.lock": "c359d53579266373bdd38b51c376a0f01e8d0182f2d0745b221722237efc9843",
+    "src/fredmd_study/__init__.py": "20c3bace5381895d7f6bf5c82505d2ea272b877b959326ed83fc1c2be0b34839",
+    "src/fredmd_study/cli.py": "6c43d923bcc8c392b33d47058a264de22f69f3df8250a967aa1802e995607a19",
+    "src/fredmd_study/dataset.py": "55c9009c4c39d396dc0126704f04738f42365cf528bdb606f4a75b66398c0457",
+    "src/fredmd_study/models.py": "d1df5a90f26f42641cb687f592dd7894e53e517b8e1f5bd1ecf5f645fa927e6d",
+    "src/fredmd_study/preparation.py": "ec3a0d0fa4af795ec1902572b2b5c42f8df00326cf84db659221e3ac65425bec",
+    "src/fredmd_study/protocol.py": "6e2bb2016512416db372d2a5d4f0bb3bf641aa011abdcc334ec4bf3bb29bbce4",
+    "src/fredmd_study/runner.py": "e9fccc9fbf0a310c29ffdd574bcae8b0a0cc8c6076a313068f3ea3a2b55c3bdf",
+    "src/fredmd_study/schedules.py": "e7d7696e562427bf5197bf7d700b1b99852431901b67ed4051dc9ac28fa24722",
+    "study.py": "98d46de71848045550667a9e971107a00266b6b6f73a58b886c49a8095b5d2fb"
+  }
+}
