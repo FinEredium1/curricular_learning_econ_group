@@ -1,0 +1,10 @@
+.venv/
+.cache/
+__pycache__/
+.pytest_cache/
+*.pyc
+vendor/
+data/raw/
+data/prepared/
+artifacts/
+results/
