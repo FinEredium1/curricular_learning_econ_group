@@ -1,0 +1,87 @@
+2026-10-31 19:26:56,788 - BasicTS-study - INFO - Initializing training.
+2026-10-31 19:26:56,788 - BasicTS-study - INFO - Building train data loader.
+2026-10-31 19:26:57,108 - BasicTS-study - INFO - Set optim: Adam
+2026-10-31 19:26:57,108 - BasicTS-study - INFO - Building val data loader.
+2026-10-31 19:26:57,121 - BasicTS-study - INFO - Building test data loader.
+2026-10-31 19:26:57,133 - BasicTS-study - INFO - Total parameters: 75
+2026-10-31 19:26:57,133 - BasicTS-study - INFO - Trainable parameters: 75
+2026-10-31 19:26:57,162 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:57,164 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.3748, val/MSE: 1.3748, val/MAE: 0.8083]
+2026-10-31 19:26:57,165 - BasicTS-study - INFO - Checkpoint <study_root>/results/study/group2/target_first/linear/seed1/basicts/f0a152cfb7eba523e78c332ffe83aa94/Linear_best_val_MSE.pt saved
+2026-10-31 19:26:57,174 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:57,175 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.2890, val/MSE: 1.2890, val/MAE: 0.7865]
+2026-10-31 19:26:57,176 - BasicTS-study - INFO - Checkpoint <study_root>/results/study/group2/target_first/linear/seed1/basicts/f0a152cfb7eba523e78c332ffe83aa94/Linear_best_val_MSE.pt saved
+2026-10-31 19:26:57,186 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:57,187 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.2437, val/MSE: 1.2437, val/MAE: 0.7742]
+2026-10-31 19:26:57,187 - BasicTS-study - INFO - Checkpoint <study_root>/results/study/group2/target_first/linear/seed1/basicts/f0a152cfb7eba523e78c332ffe83aa94/Linear_best_val_MSE.pt saved
+2026-10-31 19:26:57,196 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:57,197 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.1899, val/MSE: 1.1899, val/MAE: 0.7589]
+2026-10-31 19:26:57,198 - BasicTS-study - INFO - Checkpoint <study_root>/results/study/group2/target_first/linear/seed1/basicts/f0a152cfb7eba523e78c332ffe83aa94/Linear_best_val_MSE.pt saved
+2026-10-31 19:26:57,207 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:57,208 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.1334, val/MSE: 1.1334, val/MAE: 0.7408]
+2026-10-31 19:26:57,208 - BasicTS-study - INFO - Checkpoint <study_root>/results/study/group2/target_first/linear/seed1/basicts/f0a152cfb7eba523e78c332ffe83aa94/Linear_best_val_MSE.pt saved
+2026-10-31 19:26:57,217 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:57,218 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.0821, val/MSE: 1.0821, val/MAE: 0.7229]
+2026-10-31 19:26:57,218 - BasicTS-study - INFO - Checkpoint <study_root>/results/study/group2/target_first/linear/seed1/basicts/f0a152cfb7eba523e78c332ffe83aa94/Linear_best_val_MSE.pt saved
+2026-10-31 19:26:57,227 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:57,228 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.0583, val/MSE: 1.0583, val/MAE: 0.7139]
+2026-10-31 19:26:57,228 - BasicTS-study - INFO - Checkpoint <study_root>/results/study/group2/target_first/linear/seed1/basicts/f0a152cfb7eba523e78c332ffe83aa94/Linear_best_val_MSE.pt saved
+2026-10-31 19:26:57,237 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:57,238 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.0315, val/MSE: 1.0315, val/MAE: 0.7035]
+2026-10-31 19:26:57,239 - BasicTS-study - INFO - Checkpoint <study_root>/results/study/group2/target_first/linear/seed1/basicts/f0a152cfb7eba523e78c332ffe83aa94/Linear_best_val_MSE.pt saved
+2026-10-31 19:26:57,248 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:57,249 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.0147, val/MSE: 1.0147, val/MAE: 0.6958]
+2026-10-31 19:26:57,249 - BasicTS-study - INFO - Checkpoint <study_root>/results/study/group2/target_first/linear/seed1/basicts/f0a152cfb7eba523e78c332ffe83aa94/Linear_best_val_MSE.pt saved
+2026-10-31 19:26:57,258 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:57,259 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9924, val/MSE: 0.9924, val/MAE: 0.6855]
+2026-10-31 19:26:57,259 - BasicTS-study - INFO - Checkpoint <study_root>/results/study/group2/target_first/linear/seed1/basicts/f0a152cfb7eba523e78c332ffe83aa94/Linear_best_val_MSE.pt saved
+2026-10-31 19:26:57,268 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:57,269 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9553, val/MSE: 0.9553, val/MAE: 0.6672]
+2026-10-31 19:26:57,270 - BasicTS-study - INFO - Checkpoint <study_root>/results/study/group2/target_first/linear/seed1/basicts/f0a152cfb7eba523e78c332ffe83aa94/Linear_best_val_MSE.pt saved
+2026-10-31 19:26:57,278 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:57,279 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9381, val/MSE: 0.9381, val/MAE: 0.6562]
+2026-10-31 19:26:57,280 - BasicTS-study - INFO - Checkpoint <study_root>/results/study/group2/target_first/linear/seed1/basicts/f0a152cfb7eba523e78c332ffe83aa94/Linear_best_val_MSE.pt saved
+2026-10-31 19:26:57,289 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:57,289 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9244, val/MSE: 0.9244, val/MAE: 0.6476]
+2026-10-31 19:26:57,290 - BasicTS-study - INFO - Checkpoint <study_root>/results/study/group2/target_first/linear/seed1/basicts/f0a152cfb7eba523e78c332ffe83aa94/Linear_best_val_MSE.pt saved
+2026-10-31 19:26:57,299 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:57,300 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9156, val/MSE: 0.9156, val/MAE: 0.6425]
+2026-10-31 19:26:57,300 - BasicTS-study - INFO - Checkpoint <study_root>/results/study/group2/target_first/linear/seed1/basicts/f0a152cfb7eba523e78c332ffe83aa94/Linear_best_val_MSE.pt saved
+2026-10-31 19:26:57,310 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:57,311 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9115, val/MSE: 0.9115, val/MAE: 0.6390]
+2026-10-31 19:26:57,311 - BasicTS-study - INFO - Checkpoint <study_root>/results/study/group2/target_first/linear/seed1/basicts/f0a152cfb7eba523e78c332ffe83aa94/Linear_best_val_MSE.pt saved
+2026-10-31 19:26:57,320 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:57,321 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9050, val/MSE: 0.9050, val/MAE: 0.6356]
+2026-10-31 19:26:57,321 - BasicTS-study - INFO - Checkpoint <study_root>/results/study/group2/target_first/linear/seed1/basicts/f0a152cfb7eba523e78c332ffe83aa94/Linear_best_val_MSE.pt saved
+2026-10-31 19:26:57,331 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:57,332 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8994, val/MSE: 0.8994, val/MAE: 0.6324]
+2026-10-31 19:26:57,332 - BasicTS-study - INFO - Checkpoint <study_root>/results/study/group2/target_first/linear/seed1/basicts/f0a152cfb7eba523e78c332ffe83aa94/Linear_best_val_MSE.pt saved
+2026-10-31 19:26:57,341 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:57,342 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8967, val/MSE: 0.8967, val/MAE: 0.6310]
+2026-10-31 19:26:57,342 - BasicTS-study - INFO - Checkpoint <study_root>/results/study/group2/target_first/linear/seed1/basicts/f0a152cfb7eba523e78c332ffe83aa94/Linear_best_val_MSE.pt saved
+2026-10-31 19:26:57,352 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:57,352 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8903, val/MSE: 0.8903, val/MAE: 0.6272]
+2026-10-31 19:26:57,353 - BasicTS-study - INFO - Checkpoint <study_root>/results/study/group2/target_first/linear/seed1/basicts/f0a152cfb7eba523e78c332ffe83aa94/Linear_best_val_MSE.pt saved
+2026-10-31 19:26:57,362 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:57,363 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8907, val/MSE: 0.8907, val/MAE: 0.6269]
+2026-10-31 19:26:57,373 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:57,374 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8819, val/MSE: 0.8819, val/MAE: 0.6209]
+2026-10-31 19:26:57,375 - BasicTS-study - INFO - Checkpoint <study_root>/results/study/group2/target_first/linear/seed1/basicts/f0a152cfb7eba523e78c332ffe83aa94/Linear_best_val_MSE.pt saved
+2026-10-31 19:26:57,385 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:57,386 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8822, val/MSE: 0.8822, val/MAE: 0.6199]
+2026-10-31 19:26:57,396 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:57,396 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8759, val/MSE: 0.8759, val/MAE: 0.6159]
+2026-10-31 19:26:57,397 - BasicTS-study - INFO - Checkpoint <study_root>/results/study/group2/target_first/linear/seed1/basicts/f0a152cfb7eba523e78c332ffe83aa94/Linear_best_val_MSE.pt saved
+2026-10-31 19:26:57,406 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:57,407 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8775, val/MSE: 0.8775, val/MAE: 0.6161]
+2026-10-31 19:26:57,417 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:57,417 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8764, val/MSE: 0.8764, val/MAE: 0.6159]
+2026-10-31 19:26:57,427 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:57,428 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8732, val/MSE: 0.8732, val/MAE: 0.6143]
+2026-10-31 19:26:57,428 - BasicTS-study - INFO - Checkpoint <study_root>/results/study/group2/target_first/linear/seed1/basicts/f0a152cfb7eba523e78c332ffe83aa94/Linear_best_val_MSE.pt saved
+2026-10-31 19:26:57,434 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:57,435 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8770, val/MSE: 0.8770, val/MAE: 0.6153]
+2026-10-31 19:26:57,436 - BasicTS-study - INFO - The training finished at 2026-10-31 19:26:57
+2026-10-31 19:26:57,436 - BasicTS-study - INFO - Loading Checkpoint from '<study_root>/results/study/group2/target_first/linear/seed1/final.pt'
+2026-10-31 19:26:57,451 - BasicTS-study - INFO - Result <test>: [test/time: 0.01 (s), test/loss: 0.3457, test/MSE: 0.3457, test/MAE: 0.4805]
+2026-10-31 19:26:57,451 - BasicTS-study - INFO - Test metrics saved to <study_root>/results/study/group2/target_first/linear/seed1/basicts/f0a152cfb7eba523e78c332ffe83aa94/test_metrics.json.

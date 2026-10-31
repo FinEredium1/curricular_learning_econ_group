@@ -1,0 +1,7 @@
+# BasicTS run configs and logs record this clone's absolute study-folder path.
+# The study-root clean filter commits them with <study_root> in its place; local files stay unchanged.
+# Configure once per clone before adding results (unconfigured clones commit paths unredacted):
+#   git config filter.study-root.clean 'sed "s#$(git rev-parse --show-toplevel)/fredmd-group-curriculum-study#<study_root>#g"'
+#   git config filter.study-root.required true
+results/**/cfg.json filter=study-root
+results/**/*.log filter=study-root

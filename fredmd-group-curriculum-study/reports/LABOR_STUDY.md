@@ -114,4 +114,4 @@ The runs were executed one at a time in this order: selection comparisons first,
 - `final.pt`
 - BasicTS logs and config
 
-The 300-update controls are stored under `group2/target_only_300/`. They are shared controls and do not depend on the group. `results/` is gitignored, so share these run folders with the team separately. The report script picks up Teammate 2's `target_only_800` runs automatically once they are placed under `results/study/group*/target_only_800/`.
+The 300-update controls are stored under `group2/target_only_300/`. They are shared controls and do not depend on the group. Run outputs are committed except checkpoints (`*.pt`) and tensorboard files. BasicTS configs and logs are committed with `<study_root>` in place of the local path; configure the filter in `.gitattributes` once per clone before adding results. The report script picks up Teammate 2's `target_only_800` runs automatically once they are placed under `results/study/group*/target_only_800/`.

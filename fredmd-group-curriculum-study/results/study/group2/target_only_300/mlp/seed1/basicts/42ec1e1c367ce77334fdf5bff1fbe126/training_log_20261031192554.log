@@ -1,0 +1,37 @@
+2026-10-31 19:25:54,577 - BasicTS-study - INFO - Initializing training.
+2026-10-31 19:25:54,577 - BasicTS-study - INFO - Building train data loader.
+2026-10-31 19:25:54,895 - BasicTS-study - INFO - Set optim: Adam
+2026-10-31 19:25:54,895 - BasicTS-study - INFO - Building val data loader.
+2026-10-31 19:25:54,908 - BasicTS-study - INFO - Building test data loader.
+2026-10-31 19:25:54,920 - BasicTS-study - INFO - Total parameters: 1795
+2026-10-31 19:25:54,920 - BasicTS-study - INFO - Trainable parameters: 1795
+2026-10-31 19:25:54,950 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:25:54,953 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.1630, val/MSE: 1.1630, val/MAE: 0.7327]
+2026-10-31 19:25:54,953 - BasicTS-study - INFO - Checkpoint <study_root>/results/study/group2/target_only_300/mlp/seed1/basicts/42ec1e1c367ce77334fdf5bff1fbe126/MLP_best_val_MSE.pt saved
+2026-10-31 19:25:54,965 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:25:54,967 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.0679, val/MSE: 1.0679, val/MAE: 0.7089]
+2026-10-31 19:25:54,967 - BasicTS-study - INFO - Checkpoint <study_root>/results/study/group2/target_only_300/mlp/seed1/basicts/42ec1e1c367ce77334fdf5bff1fbe126/MLP_best_val_MSE.pt saved
+2026-10-31 19:25:54,979 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:25:54,980 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.0630, val/MSE: 1.0630, val/MAE: 0.7104]
+2026-10-31 19:25:54,981 - BasicTS-study - INFO - Checkpoint <study_root>/results/study/group2/target_only_300/mlp/seed1/basicts/42ec1e1c367ce77334fdf5bff1fbe126/MLP_best_val_MSE.pt saved
+2026-10-31 19:25:54,992 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:25:54,993 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.0114, val/MSE: 1.0114, val/MAE: 0.6942]
+2026-10-31 19:25:54,994 - BasicTS-study - INFO - Checkpoint <study_root>/results/study/group2/target_only_300/mlp/seed1/basicts/42ec1e1c367ce77334fdf5bff1fbe126/MLP_best_val_MSE.pt saved
+2026-10-31 19:25:55,005 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:25:55,006 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9132, val/MSE: 0.9132, val/MAE: 0.6486]
+2026-10-31 19:25:55,007 - BasicTS-study - INFO - Checkpoint <study_root>/results/study/group2/target_only_300/mlp/seed1/basicts/42ec1e1c367ce77334fdf5bff1fbe126/MLP_best_val_MSE.pt saved
+2026-10-31 19:25:55,019 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:25:55,019 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9009, val/MSE: 0.9009, val/MAE: 0.6447]
+2026-10-31 19:25:55,020 - BasicTS-study - INFO - Checkpoint <study_root>/results/study/group2/target_only_300/mlp/seed1/basicts/42ec1e1c367ce77334fdf5bff1fbe126/MLP_best_val_MSE.pt saved
+2026-10-31 19:25:55,032 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:25:55,033 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9084, val/MSE: 0.9084, val/MAE: 0.6517]
+2026-10-31 19:25:55,045 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:25:55,046 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9030, val/MSE: 0.9030, val/MAE: 0.6517]
+2026-10-31 19:25:55,058 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:25:55,059 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9185, val/MSE: 0.9185, val/MAE: 0.6579]
+2026-10-31 19:25:55,071 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:25:55,072 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9063, val/MSE: 0.9063, val/MAE: 0.6507]
+2026-10-31 19:25:55,072 - BasicTS-study - INFO - The training finished at 2026-10-31 19:25:55
+2026-10-31 19:25:55,072 - BasicTS-study - INFO - Loading Checkpoint from '<study_root>/results/study/group2/target_only_300/mlp/seed1/final.pt'
+2026-10-31 19:25:55,090 - BasicTS-study - INFO - Result <test>: [test/time: 0.02 (s), test/loss: 0.4050, test/MSE: 0.4050, test/MAE: 0.5275]
+2026-10-31 19:25:55,090 - BasicTS-study - INFO - Test metrics saved to <study_root>/results/study/group2/target_only_300/mlp/seed1/basicts/42ec1e1c367ce77334fdf5bff1fbe126/test_metrics.json.

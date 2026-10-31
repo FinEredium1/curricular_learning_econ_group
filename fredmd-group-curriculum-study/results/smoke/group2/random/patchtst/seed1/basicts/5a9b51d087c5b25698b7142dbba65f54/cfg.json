@@ -1,0 +1,137 @@
+{
+    "model": {
+        "name": "PatchTSTForForecasting",
+        "module": "basicts.models.PatchTST.arch.patchtst_arch"
+    },
+    "model_config": {
+        "input_len": 24,
+        "output_len": 3,
+        "num_features": 1,
+        "num_classes": null,
+        "patch_len": 6,
+        "patch_stride": 3,
+        "padding": true,
+        "hidden_size": 32,
+        "n_heads": 4,
+        "intermediate_size": 128,
+        "hidden_act": "gelu",
+        "num_layers": 2,
+        "attn_dropout": 0.0,
+        "fc_dropout": 0.0,
+        "head_dropout": 0.0,
+        "norm_type": "layer_norm",
+        "individual_head": false,
+        "use_revin": false,
+        "affine": true,
+        "subtract_last": false,
+        "decomp": false,
+        "moving_avg": 25,
+        "output_attentions": false
+    },
+    "dataset_name": "FREDMD_2026_09",
+    "dataset_type": {
+        "name": "FrozenForecastDataset",
+        "module": "fredmd_study.dataset"
+    },
+    "dataset_params": {
+        "dataset_name": "FREDMD_2026_09",
+        "root": "<study_root>",
+        "batch_ids": [
+            "target:INDPRO:0129",
+            "group2:USGOOD:0002",
+            "group2:CLF16OV:0003"
+        ]
+    },
+    "scaler": null,
+    "rescale": false,
+    "null_val": NaN,
+    "train_batch_size": 32,
+    "val_batch_size": 128,
+    "test_batch_size": 128,
+    "train_data_shuffle": false,
+    "train_data_num_workers": 0,
+    "val_data_shuffle": false,
+    "test_data_shuffle": false,
+    "num_epochs": null,
+    "num_steps": 3,
+    "val_interval": 30,
+    "test_interval": null,
+    "eval_after_train": false,
+    "save_results": false,
+    "loss": {
+        "name": "mse",
+        "module": "fredmd_study.runner"
+    },
+    "metrics": [
+        [
+            "MSE",
+            {
+                "name": "mse",
+                "module": "fredmd_study.runner"
+            }
+        ],
+        [
+            "MAE",
+            {
+                "name": "mae",
+                "module": "fredmd_study.runner"
+            }
+        ]
+    ],
+    "target_metric": "MSE",
+    "optimizer_params": {
+        "lr": 0.001,
+        "betas": [
+            0.9,
+            0.999
+        ],
+        "eps": 1e-08,
+        "weight_decay": 0.0,
+        "amsgrad": false
+    },
+    "lr_scheduler": null,
+    "callbacks": [],
+    "gpus": null,
+    "seed": 1,
+    "deterministic": true,
+    "tf32": false,
+    "cudnn_benchmark": false,
+    "ckpt_save_dir": "<study_root>/results/smoke/group2/random/patchtst/seed1/basicts",
+    "taskflow": {
+        "name": "BasicTSForecastingTaskFlow",
+        "module": "basicts.runners.taskflow.forecasting_taskflow",
+        "params": {}
+    },
+    "gpu_num": 0,
+    "null_to_num": 0.0,
+    "norm_each_channel": true,
+    "ddp_find_unused_parameters": false,
+    "compile_model": false,
+    "best_metric": "min",
+    "optimizer": {
+        "name": "Adam",
+        "module": "torch.optim.adam"
+    },
+    "lr_scheduler_params": null,
+    "ckpt_save_strategy": null,
+    "finetune_from": null,
+    "strict_load": true,
+    "train_data_prefetch": false,
+    "train_data_collate_fn": null,
+    "train_data_pin_memory": false,
+    "val_data_prefetch": false,
+    "val_data_collate_fn": null,
+    "val_data_num_workers": 0,
+    "val_data_pin_memory": false,
+    "cudnn_enabled": true,
+    "cudnn_determinstic": false,
+    "test_data_prefetch": false,
+    "test_data_collate_fn": null,
+    "test_data_num_workers": 0,
+    "test_data_pin_memory": false,
+    "eval_horizons": null,
+    "model_dtype": "float32",
+    "initial_checkpoint": "<study_root>/artifacts/initial_patchtst_seed1.pt",
+    "output_dir": "<study_root>/results/smoke/group2/random/patchtst/seed1",
+    "target_std": 0.779206526417183
+}

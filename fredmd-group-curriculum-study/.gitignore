@@ -7,4 +7,5 @@ vendor/
 data/raw/
 data/prepared/
 artifacts/
-results/
+results/**/*.pt
+results/**/events.out.tfevents.*

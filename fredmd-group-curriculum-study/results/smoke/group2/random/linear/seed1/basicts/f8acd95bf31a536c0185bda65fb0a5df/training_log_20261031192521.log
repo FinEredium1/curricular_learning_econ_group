@@ -1,0 +1,11 @@
+2026-10-31 19:25:21,809 - BasicTS-study - INFO - Initializing training.
+2026-10-31 19:25:21,810 - BasicTS-study - INFO - Building train data loader.
+2026-10-31 19:25:22,485 - BasicTS-study - INFO - Set optim: Adam
+2026-10-31 19:25:22,485 - BasicTS-study - INFO - Building val data loader.
+2026-10-31 19:25:22,498 - BasicTS-study - INFO - Building test data loader.
+2026-10-31 19:25:22,510 - BasicTS-study - INFO - Total parameters: 75
+2026-10-31 19:25:22,510 - BasicTS-study - INFO - Trainable parameters: 75
+2026-10-31 19:25:22,738 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:25:22,740 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.4661, val/MSE: 1.4661, val/MAE: 0.8312]
+2026-10-31 19:25:22,741 - BasicTS-study - INFO - Checkpoint <study_root>/results/smoke/group2/random/linear/seed1/basicts/f8acd95bf31a536c0185bda65fb0a5df/Linear_best_val_MSE.pt saved
+2026-10-31 19:25:22,742 - BasicTS-study - INFO - The training finished at 2026-10-31 19:25:22

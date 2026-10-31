@@ -1,0 +1,36 @@
+2026-10-31 19:26:00,718 - BasicTS-study - INFO - Initializing training.
+2026-10-31 19:26:00,718 - BasicTS-study - INFO - Building train data loader.
+2026-10-31 19:26:01,043 - BasicTS-study - INFO - Set optim: Adam
+2026-10-31 19:26:01,043 - BasicTS-study - INFO - Building val data loader.
+2026-10-31 19:26:01,056 - BasicTS-study - INFO - Building test data loader.
+2026-10-31 19:26:01,070 - BasicTS-study - INFO - Total parameters: 26403
+2026-10-31 19:26:01,070 - BasicTS-study - INFO - Trainable parameters: 26403
+2026-10-31 19:26:01,181 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:01,186 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.0177, val/MSE: 1.0177, val/MAE: 0.6947]
+2026-10-31 19:26:01,189 - BasicTS-study - INFO - Checkpoint <study_root>/results/study/group2/target_only_300/patchtst/seed1/basicts/114baedea4be706e1c73ae24b75c01b9/PatchTSTForForecasting_best_val_MSE.pt saved
+2026-10-31 19:26:01,282 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:01,286 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9384, val/MSE: 0.9384, val/MAE: 0.6509]
+2026-10-31 19:26:01,289 - BasicTS-study - INFO - Checkpoint <study_root>/results/study/group2/target_only_300/patchtst/seed1/basicts/114baedea4be706e1c73ae24b75c01b9/PatchTSTForForecasting_best_val_MSE.pt saved
+2026-10-31 19:26:01,381 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:01,385 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.0342, val/MSE: 1.0342, val/MAE: 0.6997]
+2026-10-31 19:26:01,480 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:01,484 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9111, val/MSE: 0.9111, val/MAE: 0.6344]
+2026-10-31 19:26:01,487 - BasicTS-study - INFO - Checkpoint <study_root>/results/study/group2/target_only_300/patchtst/seed1/basicts/114baedea4be706e1c73ae24b75c01b9/PatchTSTForForecasting_best_val_MSE.pt saved
+2026-10-31 19:26:01,578 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:01,582 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9091, val/MSE: 0.9091, val/MAE: 0.6405]
+2026-10-31 19:26:01,584 - BasicTS-study - INFO - Checkpoint <study_root>/results/study/group2/target_only_300/patchtst/seed1/basicts/114baedea4be706e1c73ae24b75c01b9/PatchTSTForForecasting_best_val_MSE.pt saved
+2026-10-31 19:26:01,677 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:01,681 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8896, val/MSE: 0.8896, val/MAE: 0.6381]
+2026-10-31 19:26:01,684 - BasicTS-study - INFO - Checkpoint <study_root>/results/study/group2/target_only_300/patchtst/seed1/basicts/114baedea4be706e1c73ae24b75c01b9/PatchTSTForForecasting_best_val_MSE.pt saved
+2026-10-31 19:26:01,775 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:01,779 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.0190, val/MSE: 1.0190, val/MAE: 0.6999]
+2026-10-31 19:26:01,870 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:01,875 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9656, val/MSE: 0.9656, val/MAE: 0.6640]
+2026-10-31 19:26:01,966 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:01,970 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9248, val/MSE: 0.9248, val/MAE: 0.6475]
+2026-10-31 19:26:02,063 - BasicTS-study - INFO - Start validation.
+2026-10-31 19:26:02,067 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9806, val/MSE: 0.9806, val/MAE: 0.6752]
+2026-10-31 19:26:02,070 - BasicTS-study - INFO - The training finished at 2026-10-31 19:26:02
+2026-10-31 19:26:02,070 - BasicTS-study - INFO - Loading Checkpoint from '<study_root>/results/study/group2/target_only_300/patchtst/seed1/final.pt'
+2026-10-31 19:26:02,093 - BasicTS-study - INFO - Result <test>: [test/time: 0.02 (s), test/loss: 0.4872, test/MSE: 0.4872, test/MAE: 0.5835]
+2026-10-31 19:26:02,094 - BasicTS-study - INFO - Test metrics saved to <study_root>/results/study/group2/target_only_300/patchtst/seed1/basicts/114baedea4be706e1c73ae24b75c01b9/test_metrics.json.
