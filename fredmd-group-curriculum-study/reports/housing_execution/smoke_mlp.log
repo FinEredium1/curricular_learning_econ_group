@@ -1,0 +1,18 @@
+2026-11-02 16:39:51,990 - easytorch-env - INFO - Use deterministic algorithms.
+2026-11-02 16:39:51,990 - BasicTS - INFO - Building model.
+2026-11-02 16:39:51,991 - BasicTS - INFO - Set ckpt save dir: "/Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/smoke/group3/random/mlp/seed1/basicts/08745ac1b6c556b00a449f9b26974dbe"
+2026-11-02 16:39:51,992 - BasicTS-study - INFO - Initializing training.
+2026-11-02 16:39:51,992 - BasicTS-study - INFO - Building train data loader.
+2026-11-02 16:39:52,447 - BasicTS-study - INFO - Set optim: Adam
+2026-11-02 16:39:52,447 - BasicTS-study - INFO - Building val data loader.
+2026-11-02 16:39:52,462 - BasicTS-study - INFO - Building test data loader.
+2026-11-02 16:39:52,477 - BasicTS-study - INFO - Total parameters: 1795
+2026-11-02 16:39:52,477 - BasicTS-study - INFO - Trainable parameters: 1795
+ 25%|██▌       | 1/4 [00:00<?, ?it/s] 50%|█████     | 2/4 [00:00<00:00, 70.04it/s] 75%|███████▌  | 3/4 [00:00<00:00, 159.58it/s]2026-11-02 16:39:52,502 - BasicTS-study - INFO - Start validation.
+
+  0%|          | 0/1 [00:00<?, ?it/s][A
+                                     [A2026-11-02 16:39:52,505 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.2905, val/MSE: 1.2905, val/MAE: 0.7654]
+2026-11-02 16:39:52,506 - BasicTS-study - INFO - Checkpoint /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/smoke/group3/random/mlp/seed1/basicts/08745ac1b6c556b00a449f9b26974dbe/MLP_best_val_MSE.pt saved
+100%|██████████| 4/4 [00:00<00:00, 186.70it/s]100%|██████████| 4/4 [00:00<00:00, 155.45it/s]
+2026-11-02 16:39:52,506 - BasicTS-study - INFO - The training finished at 2026-11-02 16:39:52
+{'group': 3, 'model': 'mlp', 'order': 'random', 'seed': 1, 'smoke_only': True, 'updates': 3, 'training_seconds': 0.010340209119021893, 'device': 'cpu', 'torch_threads': 1, 'initial_checkpoint_sha256': '4a7721816d787aab2f499a279521bf5c5c3ebeb613b2d5360616982878e050e6', 'snapshot_sha256': 'd6e239038afbdbf4667c2a63c13c942817bc196fedab4355cd7e0d353ecdd65d', 'freeze_sha256': '5b095334de6612a9be6002a1f8d72b0a7f795e938bb699b05ca2dd85dd3d737b', 'training_timing': 'step computation after batch fetch; excludes validation, testing, and plotting'}

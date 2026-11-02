@@ -1,0 +1,74 @@
+2026-11-02 16:39:58,522 - BasicTS-study - INFO - Initializing training.
+2026-11-02 16:39:58,522 - BasicTS-study - INFO - Building train data loader.
+2026-11-02 16:39:58,871 - BasicTS-study - INFO - Set optim: Adam
+2026-11-02 16:39:58,871 - BasicTS-study - INFO - Building val data loader.
+2026-11-02 16:39:58,886 - BasicTS-study - INFO - Building test data loader.
+2026-11-02 16:39:58,899 - BasicTS-study - INFO - Total parameters: 1795
+2026-11-02 16:39:58,899 - BasicTS-study - INFO - Trainable parameters: 1795
+2026-11-02 16:39:58,930 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:39:58,932 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.0369, val/MSE: 1.0369, val/MAE: 0.6891]
+2026-11-02 16:39:58,933 - BasicTS-study - INFO - Checkpoint /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/random/mlp/seed1/basicts/9080e0018c8668cf77c74cc4d2cd0707/MLP_best_val_MSE.pt saved
+2026-11-02 16:39:58,944 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:39:58,945 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9574, val/MSE: 0.9574, val/MAE: 0.6518]
+2026-11-02 16:39:58,946 - BasicTS-study - INFO - Checkpoint /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/random/mlp/seed1/basicts/9080e0018c8668cf77c74cc4d2cd0707/MLP_best_val_MSE.pt saved
+2026-11-02 16:39:58,958 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:39:58,959 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9163, val/MSE: 0.9163, val/MAE: 0.6362]
+2026-11-02 16:39:58,960 - BasicTS-study - INFO - Checkpoint /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/random/mlp/seed1/basicts/9080e0018c8668cf77c74cc4d2cd0707/MLP_best_val_MSE.pt saved
+2026-11-02 16:39:58,972 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:39:58,973 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8972, val/MSE: 0.8972, val/MAE: 0.6312]
+2026-11-02 16:39:58,974 - BasicTS-study - INFO - Checkpoint /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/random/mlp/seed1/basicts/9080e0018c8668cf77c74cc4d2cd0707/MLP_best_val_MSE.pt saved
+2026-11-02 16:39:58,985 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:39:58,986 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8670, val/MSE: 0.8670, val/MAE: 0.6201]
+2026-11-02 16:39:58,987 - BasicTS-study - INFO - Checkpoint /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/random/mlp/seed1/basicts/9080e0018c8668cf77c74cc4d2cd0707/MLP_best_val_MSE.pt saved
+2026-11-02 16:39:58,998 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:39:58,999 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8643, val/MSE: 0.8643, val/MAE: 0.6169]
+2026-11-02 16:39:59,000 - BasicTS-study - INFO - Checkpoint /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/random/mlp/seed1/basicts/9080e0018c8668cf77c74cc4d2cd0707/MLP_best_val_MSE.pt saved
+2026-11-02 16:39:59,011 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:39:59,013 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8480, val/MSE: 0.8480, val/MAE: 0.6085]
+2026-11-02 16:39:59,013 - BasicTS-study - INFO - Checkpoint /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/random/mlp/seed1/basicts/9080e0018c8668cf77c74cc4d2cd0707/MLP_best_val_MSE.pt saved
+2026-11-02 16:39:59,026 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:39:59,027 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8500, val/MSE: 0.8500, val/MAE: 0.6095]
+2026-11-02 16:39:59,038 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:39:59,039 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8426, val/MSE: 0.8426, val/MAE: 0.6053]
+2026-11-02 16:39:59,040 - BasicTS-study - INFO - Checkpoint /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/random/mlp/seed1/basicts/9080e0018c8668cf77c74cc4d2cd0707/MLP_best_val_MSE.pt saved
+2026-11-02 16:39:59,051 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:39:59,052 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8387, val/MSE: 0.8387, val/MAE: 0.6053]
+2026-11-02 16:39:59,052 - BasicTS-study - INFO - Checkpoint /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/random/mlp/seed1/basicts/9080e0018c8668cf77c74cc4d2cd0707/MLP_best_val_MSE.pt saved
+2026-11-02 16:39:59,063 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:39:59,064 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8416, val/MSE: 0.8416, val/MAE: 0.6057]
+2026-11-02 16:39:59,075 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:39:59,077 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8440, val/MSE: 0.8440, val/MAE: 0.6061]
+2026-11-02 16:39:59,088 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:39:59,089 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8525, val/MSE: 0.8525, val/MAE: 0.6117]
+2026-11-02 16:39:59,101 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:39:59,102 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8523, val/MSE: 0.8523, val/MAE: 0.6119]
+2026-11-02 16:39:59,113 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:39:59,114 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8464, val/MSE: 0.8464, val/MAE: 0.6074]
+2026-11-02 16:39:59,125 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:39:59,126 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8484, val/MSE: 0.8484, val/MAE: 0.6079]
+2026-11-02 16:39:59,137 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:39:59,138 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8454, val/MSE: 0.8454, val/MAE: 0.6067]
+2026-11-02 16:39:59,148 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:39:59,149 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8589, val/MSE: 0.8589, val/MAE: 0.6078]
+2026-11-02 16:39:59,160 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:39:59,161 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8619, val/MSE: 0.8619, val/MAE: 0.6160]
+2026-11-02 16:39:59,171 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:39:59,172 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8757, val/MSE: 0.8757, val/MAE: 0.6230]
+2026-11-02 16:39:59,183 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:39:59,184 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8582, val/MSE: 0.8582, val/MAE: 0.6140]
+2026-11-02 16:39:59,198 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:39:59,199 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8610, val/MSE: 0.8610, val/MAE: 0.6184]
+2026-11-02 16:39:59,210 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:39:59,212 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8580, val/MSE: 0.8580, val/MAE: 0.6147]
+2026-11-02 16:39:59,222 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:39:59,223 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8756, val/MSE: 0.8756, val/MAE: 0.6218]
+2026-11-02 16:39:59,234 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:39:59,235 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8771, val/MSE: 0.8771, val/MAE: 0.6206]
+2026-11-02 16:39:59,245 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:39:59,246 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8707, val/MSE: 0.8707, val/MAE: 0.6242]
+2026-11-02 16:39:59,253 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:39:59,254 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8743, val/MSE: 0.8743, val/MAE: 0.6216]
+2026-11-02 16:39:59,255 - BasicTS-study - INFO - The training finished at 2026-11-02 16:39:59
+2026-11-02 16:39:59,255 - BasicTS-study - INFO - Loading Checkpoint from '/Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/random/mlp/seed1/final.pt'
+2026-11-02 16:39:59,268 - BasicTS-study - INFO - Result <test>: [test/time: 0.01 (s), test/loss: 0.3873, test/MSE: 0.3873, test/MAE: 0.5054]
+2026-11-02 16:39:59,268 - BasicTS-study - INFO - Test metrics saved to /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/random/mlp/seed1/basicts/9080e0018c8668cf77c74cc4d2cd0707/test_metrics.json.

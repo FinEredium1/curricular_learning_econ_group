@@ -1,0 +1,356 @@
+{
+  "runs": 54,
+  "augmented_runs": 48,
+  "shared_controls": 6,
+  "housing_runs": 12,
+  "all_saved_metrics_reproduced": true,
+  "identical_test_targets": true,
+  "shared_provenance": true,
+  "checkpoint_counters_verified": 39,
+  "missing_checkpoints": [
+    "fredmd-group-curriculum-study/results/study/group2/auxiliary_first/linear/seed1",
+    "fredmd-group-curriculum-study/results/study/group2/auxiliary_first/mlp/seed1",
+    "fredmd-group-curriculum-study/results/study/group2/auxiliary_first/patchtst/seed1",
+    "fredmd-group-curriculum-study/results/study/group2/interleaved/linear/seed1",
+    "fredmd-group-curriculum-study/results/study/group2/interleaved/mlp/seed1",
+    "fredmd-group-curriculum-study/results/study/group2/interleaved/patchtst/seed1",
+    "fredmd-group-curriculum-study/results/study/group2/random/linear/seed1",
+    "fredmd-group-curriculum-study/results/study/group2/random/mlp/seed1",
+    "fredmd-group-curriculum-study/results/study/group2/random/patchtst/seed1",
+    "fredmd-group-curriculum-study/results/study/group2/target_first/linear/seed1",
+    "fredmd-group-curriculum-study/results/study/group2/target_first/mlp/seed1",
+    "fredmd-group-curriculum-study/results/study/group2/target_first/patchtst/seed1",
+    "fredmd-group-curriculum-study/results/study/group2/target_only_300/linear/seed1",
+    "fredmd-group-curriculum-study/results/study/group2/target_only_300/mlp/seed1",
+    "fredmd-group-curriculum-study/results/study/group2/target_only_300/patchtst/seed1"
+  ],
+  "frozen_files_unchanged": true,
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "python": "3.11.18",
+  "files": [
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group1/auxiliary_first/linear/seed1/summary.json",
+      "summary_sha256": "abdc51fc36c07e963747b3c2fa8e5471e3e28e7340a9fdc6faf74f9a8f47ddf1",
+      "predictions_sha256": "a6b809ae34676dc531d654b8cc72c7f9f9eea8187bb1ec0ba2863598f921f89e",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group1/auxiliary_first/mlp/seed1/summary.json",
+      "summary_sha256": "d6839f8ed18edf03e087a3381771d5a7012cdac9f946641fc457afa921773ea8",
+      "predictions_sha256": "37d53aa8958ae1958712bbb5e29734653bf6294ebf271351e4cba3d404f9ce09",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group1/auxiliary_first/patchtst/seed1/summary.json",
+      "summary_sha256": "e5e8f19c4f366fd92b2966828896fa915741f4e62268bbe177caa9da286f31a3",
+      "predictions_sha256": "13104d871bd0313178c620a460c7f549f5cca0ae8df9c5d55df0d3f66337ca24",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group1/interleaved/linear/seed1/summary.json",
+      "summary_sha256": "57776be7eb67655bf7b73a73c2292f8ceb09af2d0948e11aeb98f5d365d1abbe",
+      "predictions_sha256": "6edf876b4f7b3c95394acdf9363b091405dc92af9e5cc0b7354751c951501fc2",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group1/interleaved/mlp/seed1/summary.json",
+      "summary_sha256": "341687c5a3211989f10a5fc9f15794725d501ad78ec2e683aef285cc2cd82c63",
+      "predictions_sha256": "b09a650a0d4f36e6024bf96f4603764521603b12c510ebad9b9f562f29261e0b",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group1/interleaved/patchtst/seed1/summary.json",
+      "summary_sha256": "c9be7ae9039c4db281c73c991a619feb09fe2061e4cf1ac00f61d93936702837",
+      "predictions_sha256": "add33a21035db904d9d71ae7f0483d6121ccf1ace2864c3bf0525d5b0c75ac5c",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group1/random/linear/seed1/summary.json",
+      "summary_sha256": "853d3d782783419e12604c66a521ac9da02bdb9d3006adef470a0dcb65202702",
+      "predictions_sha256": "cb1bf5ebf4cf50e8aa13bfbb106c5bf17a2f312f8f6d95e2f89205845a6f8238",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group1/random/mlp/seed1/summary.json",
+      "summary_sha256": "1b3fa5412b11c4946fbde448008e2d694f1756450c278049d3c62531bb15c360",
+      "predictions_sha256": "aa124c1d7fa537ba40675dfc7a993cfdc3dbd3e1b627cb73696b1e3d54cc0daa",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group1/random/patchtst/seed1/summary.json",
+      "summary_sha256": "f7acd4b67297a01f79446b433b8065b292ab38b820f258f726d080149bd107fb",
+      "predictions_sha256": "6dcb7cd1abf912a8e71a7cc4858dc0fa2cb9c6141c14b22f1c226171045110ea",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group1/target_first/linear/seed1/summary.json",
+      "summary_sha256": "8c851fc4be276e0ce3ae17336a19d727996bf2842de066f99d558bc696bb077e",
+      "predictions_sha256": "21186676ef875f37d6aad2cba920d1f2502d0790f60b7446885dac69be94efd4",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group1/target_first/mlp/seed1/summary.json",
+      "summary_sha256": "52bbd2c56045b7f86f841c7d7b118f483f4811fcae49ad57c60710343dcbc453",
+      "predictions_sha256": "529b6670a6119a8320e40073cce7aa699f6ce317995dcce242cc9a3c1dabc533",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group1/target_first/patchtst/seed1/summary.json",
+      "summary_sha256": "f42571376701721a9dc63635b8865428d1cf4d04ed431c30a06f2908860832d7",
+      "predictions_sha256": "e6bb9c3b79ae9ce7923809d3ab861972ad0cc1c0723aa31ff7bfc773d297ed92",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group1/target_only_800/linear/seed1/summary.json",
+      "summary_sha256": "e55e22a8654c91d9dd7d31d6ca5a2ffdb9e45d4849c1a11df348732dbbf4bae1",
+      "predictions_sha256": "de70a3178e806b9d894804cd7c6d28e1aa7d33da3fae3c72e3dfa17635d6fdee",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group1/target_only_800/mlp/seed1/summary.json",
+      "summary_sha256": "12ca4e3d9d45325ac9d63869e371b19d18d3d10f1f1b64ed25c66b566f5b8600",
+      "predictions_sha256": "db6b06b8637887998337906ddda760f7928c6e0d3a930e44f2d1bd5d8e31da81",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group1/target_only_800/patchtst/seed1/summary.json",
+      "summary_sha256": "1d1d57258f20f13cd22cadecc6d4f9ac56ea90eb4310e97ec9305dd91cbedb94",
+      "predictions_sha256": "9a856533b0fad47f283ec5f70802c93a80ec38b0ea97d9e626c03252d94e86ba",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group2/auxiliary_first/linear/seed1/summary.json",
+      "summary_sha256": "25032821d146eaa7a0473479db41db024729e2efab07ec92032677f9bc89aa13",
+      "predictions_sha256": "118a1c01cef65856919821b3b944826ab085f7f422090605536ab53f68b72bb0",
+      "checkpoint_verified": false
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group2/auxiliary_first/mlp/seed1/summary.json",
+      "summary_sha256": "dfa6b1fa1f620338a4ef2e89d8209dd57e0260ee1ce1ba49cb66a13c3f2fb6cc",
+      "predictions_sha256": "ff379d98e21cf4af2c15808048da2cacfa0c6879a22ac2344031b8cfa5719258",
+      "checkpoint_verified": false
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group2/auxiliary_first/patchtst/seed1/summary.json",
+      "summary_sha256": "255ffe81e4810f5f836ac66abcd18deb917b2b3a73279c9f6d2b504cf56d2069",
+      "predictions_sha256": "74e66741086385f2ed09e56c5bcca16d6d9ef312a6e3ba941a259684cac0b49f",
+      "checkpoint_verified": false
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group2/interleaved/linear/seed1/summary.json",
+      "summary_sha256": "1e0f02f1154bca4d6ba23901c40521f9c7ea1f29f73def679b429dcb12344093",
+      "predictions_sha256": "125b300d5fb7f8070a458273687c4e14607654dbcb9ddab390aa4523602ddf6e",
+      "checkpoint_verified": false
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group2/interleaved/mlp/seed1/summary.json",
+      "summary_sha256": "2f332b0c41b8e6ba9009a48fbc2d02403a77608d32f9c907dad972f9744b1de4",
+      "predictions_sha256": "2e3da4bd56aa31958b6cf59a4c9fb5db1c52907cc722695eff0bf7d505c7e1eb",
+      "checkpoint_verified": false
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group2/interleaved/patchtst/seed1/summary.json",
+      "summary_sha256": "d52b5af715509f616cc86be7bbaf83bb4e94018b30ffa486461fa9b0ef5b7792",
+      "predictions_sha256": "85e78139e16ff599326059a898e7ca45167a78a2f630ce0248327f4dee26de18",
+      "checkpoint_verified": false
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group2/random/linear/seed1/summary.json",
+      "summary_sha256": "b49f60528c20d124601df278a25f44b1e6e79e951b7b62e32c98d685a8579bf8",
+      "predictions_sha256": "4a659ccf967095d796475c2e774724b7b0289077767334111560eb22b166a190",
+      "checkpoint_verified": false
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group2/random/mlp/seed1/summary.json",
+      "summary_sha256": "3e6230c30da43a6d285c93fd26b4d8253af933e685fcc9287eb9d6cea8fe9f81",
+      "predictions_sha256": "d3f091673e95959da999e01440258e696255ce896f482e4de9633ead2a693e4a",
+      "checkpoint_verified": false
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group2/random/patchtst/seed1/summary.json",
+      "summary_sha256": "b68116bcfa34f7f45ba8456cc630a7cc7997919908a67059c8c6b716b41be19d",
+      "predictions_sha256": "2383c5b17fd85273cefd4dc253720c00fc6faefd2ef9046e151ae877866954a6",
+      "checkpoint_verified": false
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group2/target_first/linear/seed1/summary.json",
+      "summary_sha256": "32acbde40cabbd0ef57bbeec0aaae6020506ca71e06db7f2298c960094a9899a",
+      "predictions_sha256": "ced79724269ecee5f717b963476d1915ed3c6813e02e4af106217ac67def2e6c",
+      "checkpoint_verified": false
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group2/target_first/mlp/seed1/summary.json",
+      "summary_sha256": "2d99c24d963dacc859fb346e0f2fc8066ca3052bee51522e18aad1a0d8f5caa6",
+      "predictions_sha256": "54845e5313514a25d2276f2c535763777abb5fb8acdea6135aab3c2160a7b710",
+      "checkpoint_verified": false
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group2/target_first/patchtst/seed1/summary.json",
+      "summary_sha256": "3011f32bf0fbe5dbe821610905775f8b957fcce0e5fad6dfe97720e06cd6f4a1",
+      "predictions_sha256": "e7081377bf008688e18b1f3987aba17ce7dadd0ae01de57d6ae2117e30b91c6a",
+      "checkpoint_verified": false
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group2/target_only_300/linear/seed1/summary.json",
+      "summary_sha256": "ae0f1dda7d20e5f3d8815b0ec5c3fcd5958a4a905f348c475ef0c1321541b7d6",
+      "predictions_sha256": "29304a9af290f840507ce32c2a674d9519d559feb466cc463c8dc3ea809675db",
+      "checkpoint_verified": false
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group2/target_only_300/mlp/seed1/summary.json",
+      "summary_sha256": "44f34b19cedd1b13d6ea372f058055668db11f8e662a2d689364bfbd4ca8876b",
+      "predictions_sha256": "a42d7149d2112dfdfba8278b42ff9bde9c5b2f01cbd6cf45fc30276c26d353a9",
+      "checkpoint_verified": false
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group2/target_only_300/patchtst/seed1/summary.json",
+      "summary_sha256": "5c8e2e1fac8829ed9c5053364841818fcc24895af9fb266b94259028a65a0218",
+      "predictions_sha256": "df273f1140150e79241662f44037e9b487a66fae9ce2fa05eae1e1f9c6f0ae35",
+      "checkpoint_verified": false
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group3/auxiliary_first/linear/seed1/summary.json",
+      "summary_sha256": "7f83d1077fab3828b3727d64fe3f35f031097a5eddb22b355d4f4858659e6f6b",
+      "predictions_sha256": "dc1a647bb6162e1167c871ecd24131ada277d7a6e533fe98dca747a373f5b23a",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group3/auxiliary_first/mlp/seed1/summary.json",
+      "summary_sha256": "14acef69603280258c92a2b5962f01e912968a2548225e1a90e9262f22ffe54b",
+      "predictions_sha256": "c0e43e74a5a628f53931438f29176202bfc3628e882e0aec61d34ea48d98f166",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group3/auxiliary_first/patchtst/seed1/summary.json",
+      "summary_sha256": "4fe60665725549f23ed4c7c5c9065a66e3c03670234b922b742bea4e5d99d022",
+      "predictions_sha256": "3df08e74d2b1fc59d4923c5c7058e98c3a3f4f87b950c8aac0765aa6446b0bdf",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group3/interleaved/linear/seed1/summary.json",
+      "summary_sha256": "5b1e1dfac380f4bcbcb8721f56c90a1239633e54764f1c885cb8b3aeef9907b2",
+      "predictions_sha256": "d642a681ee52f1802e44e533e9b13a0ffbff81c429356a795cb5a6305114e966",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group3/interleaved/mlp/seed1/summary.json",
+      "summary_sha256": "ff2cccff748919e1a7670afc1dee597f2c56d339d761061c3be2f06b5cc94f78",
+      "predictions_sha256": "ebad1659e536829fdca40dce188777d48e7c71ecc0fd7b2a4d29492cb95e723f",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group3/interleaved/patchtst/seed1/summary.json",
+      "summary_sha256": "d55a52711ec9f4335587008ef8504b2b7ed997c5e4effbac02d3750041979602",
+      "predictions_sha256": "4aab73ad17c0522754bcd8ccfaea0af2aaaf43399aabcca718309479278dbda6",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group3/random/linear/seed1/summary.json",
+      "summary_sha256": "55eb6647586570ec439985478be5a03853fc6a8aa72f708550c97b0563eae258",
+      "predictions_sha256": "92f0f17f1ab41254c345c3bf4011fd6d24c867ec0930f66fa6059bb92bd3eabd",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group3/random/mlp/seed1/summary.json",
+      "summary_sha256": "a01c752e2a2e133bd875f5236682064c75dd4575ff49d24f6048caadd5371eb7",
+      "predictions_sha256": "a8e23eb8b03e507806c0c1943125e60a2f1883cd0ff663d9e345eba783cdf181",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group3/random/patchtst/seed1/summary.json",
+      "summary_sha256": "d18ea9dfa8137a40bc151b63fde3c166beb2039ce5c4a7b3d3ed3918a1783912",
+      "predictions_sha256": "f6a69660545e2d568452d937e44a47c3f3e62b8909a413bcfbdc7dd7218d22cc",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group3/target_first/linear/seed1/summary.json",
+      "summary_sha256": "c76d12d769a32518272b144e52a3fc7d51ed922b8caa519e02212acf742a74fd",
+      "predictions_sha256": "28585bff49317b864911b9f51ede53264122b4e14b439314c5fd4616caa5a57a",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group3/target_first/mlp/seed1/summary.json",
+      "summary_sha256": "b9c6079124e365c3d8bf08e3a5fff3ec4453e19b1b51426bca204347d6b95cfc",
+      "predictions_sha256": "a961caea68821b82f692c62d818333fd66dff8ed50bb7f5c35b47e21ac80e834",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "fredmd-group-curriculum-study/results/study/group3/target_first/patchtst/seed1/summary.json",
+      "summary_sha256": "43074004234cf5ce7c1985c0bd0495543739042cb949f440c1a56e41ebd18a24",
+      "predictions_sha256": "bb709cd3dd7ef47a49fa86c4c4c90bb2e0c1abc2967649323de04d7717758622",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "group6_results_seed1_20261031T203006Z_154216/group6/auxiliary_first/linear/seed1/summary.json",
+      "summary_sha256": "b946d70033b0b1612df774f674666517a5572d66e1f69df4eb106c39fff2731b",
+      "predictions_sha256": "9153cebf3e6077debbbb0c78b1031bda995bb086f03ee3582bd84cc591dd538b",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "group6_results_seed1_20261031T203006Z_154216/group6/auxiliary_first/mlp/seed1/summary.json",
+      "summary_sha256": "b74fdaea03211ef741e59c6beb2535f0b636731e87cc75ffd7ecb3507658a633",
+      "predictions_sha256": "77b73c4d42c1edc8cc975781ddb2f50ea79a3cf3a61cfccf99863dee6eee4b5c",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "group6_results_seed1_20261031T203006Z_154216/group6/auxiliary_first/patchtst/seed1/summary.json",
+      "summary_sha256": "52f4ac2963235729ca1136afd2eb8019673c50130ac60d2aaeff78ec66797d58",
+      "predictions_sha256": "e94f5c321460804c42a57045fcfff6ee033bd2c4cff3bcc52894b75dcaa1bc57",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "group6_results_seed1_20261031T203006Z_154216/group6/interleaved/linear/seed1/summary.json",
+      "summary_sha256": "9f52a7536b7cce6146f68ce2d80ade6ab9d663b9d4344f9c6311d9ad3ff824e0",
+      "predictions_sha256": "381e71ef77cca7a7b414006d72039b0a99f94469fe30550f85a7afa08be4e82e",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "group6_results_seed1_20261031T203006Z_154216/group6/interleaved/mlp/seed1/summary.json",
+      "summary_sha256": "9d1e7a2c696efd8356bbc7b16203c5e74d049ee3d03d4616888d7845db0f0e5a",
+      "predictions_sha256": "7c74f9c4176ce18eae6a910332a9883391759d5f2668d6cf31011363bbf5dc3f",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "group6_results_seed1_20261031T203006Z_154216/group6/interleaved/patchtst/seed1/summary.json",
+      "summary_sha256": "cf5f2dfa7c0c6d47d224483e4fde945488b50f4a9d53c7b0c14445ad5bd441ef",
+      "predictions_sha256": "5b2ba20037ca200a513b07aed182e77e8e557950f91deba7db5ceed6359ba2c4",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "group6_results_seed1_20261031T203006Z_154216/group6/random/linear/seed1/summary.json",
+      "summary_sha256": "ed08e43ad77bff122c7fad5f3d873095a8f8067bcbe25c06024a459401ba7107",
+      "predictions_sha256": "824e9537abca26a3892164797ea5c6a61b4ea5fca3bb8c5d8eb66e7dbf229700",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "group6_results_seed1_20261031T203006Z_154216/group6/random/mlp/seed1/summary.json",
+      "summary_sha256": "345d555049e92a5a4f5c6d736d2f3974cef786fa7f5bb59dd90f648220302ef8",
+      "predictions_sha256": "785bce2f3bfb8f570bbe242e37a1636ef22d47569110cf79f2b0b8a32b01fa94",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "group6_results_seed1_20261031T203006Z_154216/group6/random/patchtst/seed1/summary.json",
+      "summary_sha256": "076254f2c7eae01855c540f30745530bc89bc385c6c1ab8f04f51d308e4ad895",
+      "predictions_sha256": "a804cfa45e2fb3a57b0bfc622391c392ec000f74dc7634601a74e1acbaf99074",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "group6_results_seed1_20261031T203006Z_154216/group6/target_first/linear/seed1/summary.json",
+      "summary_sha256": "3398b4670d78c69f9f8590a15cf468f84f6054ea1f52008376583557865bb3a2",
+      "predictions_sha256": "0a87721758787ca3e5584eab05f893f07bffe423adb3da5c798c4dfab5c62d00",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "group6_results_seed1_20261031T203006Z_154216/group6/target_first/mlp/seed1/summary.json",
+      "summary_sha256": "df0e8fda9c511dd5e27f09f1eb1de7decfac8abf8930875ec0e625648bb714d6",
+      "predictions_sha256": "db819bdf6e8d7109fff143e733a064b5ad652446d2cdd2894dd7e1aafcd4ffb6",
+      "checkpoint_verified": true
+    },
+    {
+      "path": "group6_results_seed1_20261031T203006Z_154216/group6/target_first/patchtst/seed1/summary.json",
+      "summary_sha256": "8b58b28223fc70a081b89e7a43122b40c0a10bbae72ed45281ece90360326fb0",
+      "predictions_sha256": "c37b058d3bdb27907028ae4c5154208eb19888556850eecd097eee70d398a124",
+      "checkpoint_verified": true
+    }
+  ]
+}

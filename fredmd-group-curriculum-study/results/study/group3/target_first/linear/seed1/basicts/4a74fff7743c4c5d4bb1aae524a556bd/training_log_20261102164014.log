@@ -1,0 +1,87 @@
+2026-11-02 16:40:14,480 - BasicTS-study - INFO - Initializing training.
+2026-11-02 16:40:14,481 - BasicTS-study - INFO - Building train data loader.
+2026-11-02 16:40:14,839 - BasicTS-study - INFO - Set optim: Adam
+2026-11-02 16:40:14,839 - BasicTS-study - INFO - Building val data loader.
+2026-11-02 16:40:14,854 - BasicTS-study - INFO - Building test data loader.
+2026-11-02 16:40:14,868 - BasicTS-study - INFO - Total parameters: 75
+2026-11-02 16:40:14,868 - BasicTS-study - INFO - Trainable parameters: 75
+2026-11-02 16:40:14,899 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:40:14,902 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.3748, val/MSE: 1.3748, val/MAE: 0.8083]
+2026-11-02 16:40:14,903 - BasicTS-study - INFO - Checkpoint /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/target_first/linear/seed1/basicts/4a74fff7743c4c5d4bb1aae524a556bd/Linear_best_val_MSE.pt saved
+2026-11-02 16:40:14,913 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:40:14,914 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.2890, val/MSE: 1.2890, val/MAE: 0.7865]
+2026-11-02 16:40:14,915 - BasicTS-study - INFO - Checkpoint /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/target_first/linear/seed1/basicts/4a74fff7743c4c5d4bb1aae524a556bd/Linear_best_val_MSE.pt saved
+2026-11-02 16:40:14,924 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:40:14,925 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.2437, val/MSE: 1.2437, val/MAE: 0.7742]
+2026-11-02 16:40:14,926 - BasicTS-study - INFO - Checkpoint /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/target_first/linear/seed1/basicts/4a74fff7743c4c5d4bb1aae524a556bd/Linear_best_val_MSE.pt saved
+2026-11-02 16:40:14,935 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:40:14,936 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.1899, val/MSE: 1.1899, val/MAE: 0.7589]
+2026-11-02 16:40:14,936 - BasicTS-study - INFO - Checkpoint /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/target_first/linear/seed1/basicts/4a74fff7743c4c5d4bb1aae524a556bd/Linear_best_val_MSE.pt saved
+2026-11-02 16:40:14,945 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:40:14,946 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.1334, val/MSE: 1.1334, val/MAE: 0.7408]
+2026-11-02 16:40:14,947 - BasicTS-study - INFO - Checkpoint /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/target_first/linear/seed1/basicts/4a74fff7743c4c5d4bb1aae524a556bd/Linear_best_val_MSE.pt saved
+2026-11-02 16:40:14,956 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:40:14,958 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.0821, val/MSE: 1.0821, val/MAE: 0.7229]
+2026-11-02 16:40:14,958 - BasicTS-study - INFO - Checkpoint /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/target_first/linear/seed1/basicts/4a74fff7743c4c5d4bb1aae524a556bd/Linear_best_val_MSE.pt saved
+2026-11-02 16:40:14,967 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:40:14,968 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.0583, val/MSE: 1.0583, val/MAE: 0.7139]
+2026-11-02 16:40:14,969 - BasicTS-study - INFO - Checkpoint /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/target_first/linear/seed1/basicts/4a74fff7743c4c5d4bb1aae524a556bd/Linear_best_val_MSE.pt saved
+2026-11-02 16:40:14,978 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:40:14,979 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.0315, val/MSE: 1.0315, val/MAE: 0.7035]
+2026-11-02 16:40:14,980 - BasicTS-study - INFO - Checkpoint /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/target_first/linear/seed1/basicts/4a74fff7743c4c5d4bb1aae524a556bd/Linear_best_val_MSE.pt saved
+2026-11-02 16:40:14,989 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:40:14,990 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.0147, val/MSE: 1.0147, val/MAE: 0.6958]
+2026-11-02 16:40:14,991 - BasicTS-study - INFO - Checkpoint /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/target_first/linear/seed1/basicts/4a74fff7743c4c5d4bb1aae524a556bd/Linear_best_val_MSE.pt saved
+2026-11-02 16:40:15,000 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:40:15,001 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9924, val/MSE: 0.9924, val/MAE: 0.6855]
+2026-11-02 16:40:15,002 - BasicTS-study - INFO - Checkpoint /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/target_first/linear/seed1/basicts/4a74fff7743c4c5d4bb1aae524a556bd/Linear_best_val_MSE.pt saved
+2026-11-02 16:40:15,011 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:40:15,012 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9565, val/MSE: 0.9565, val/MAE: 0.6662]
+2026-11-02 16:40:15,012 - BasicTS-study - INFO - Checkpoint /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/target_first/linear/seed1/basicts/4a74fff7743c4c5d4bb1aae524a556bd/Linear_best_val_MSE.pt saved
+2026-11-02 16:40:15,021 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:40:15,022 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9470, val/MSE: 0.9470, val/MAE: 0.6600]
+2026-11-02 16:40:15,022 - BasicTS-study - INFO - Checkpoint /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/target_first/linear/seed1/basicts/4a74fff7743c4c5d4bb1aae524a556bd/Linear_best_val_MSE.pt saved
+2026-11-02 16:40:15,032 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:40:15,033 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9369, val/MSE: 0.9369, val/MAE: 0.6564]
+2026-11-02 16:40:15,033 - BasicTS-study - INFO - Checkpoint /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/target_first/linear/seed1/basicts/4a74fff7743c4c5d4bb1aae524a556bd/Linear_best_val_MSE.pt saved
+2026-11-02 16:40:15,042 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:40:15,043 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9408, val/MSE: 0.9408, val/MAE: 0.6561]
+2026-11-02 16:40:15,052 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:40:15,053 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9241, val/MSE: 0.9241, val/MAE: 0.6493]
+2026-11-02 16:40:15,053 - BasicTS-study - INFO - Checkpoint /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/target_first/linear/seed1/basicts/4a74fff7743c4c5d4bb1aae524a556bd/Linear_best_val_MSE.pt saved
+2026-11-02 16:40:15,062 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:40:15,063 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9233, val/MSE: 0.9233, val/MAE: 0.6482]
+2026-11-02 16:40:15,067 - BasicTS-study - INFO - Checkpoint /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/target_first/linear/seed1/basicts/4a74fff7743c4c5d4bb1aae524a556bd/Linear_best_val_MSE.pt saved
+2026-11-02 16:40:15,076 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:40:15,078 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9201, val/MSE: 0.9201, val/MAE: 0.6459]
+2026-11-02 16:40:15,078 - BasicTS-study - INFO - Checkpoint /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/target_first/linear/seed1/basicts/4a74fff7743c4c5d4bb1aae524a556bd/Linear_best_val_MSE.pt saved
+2026-11-02 16:40:15,088 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:40:15,089 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9087, val/MSE: 0.9087, val/MAE: 0.6423]
+2026-11-02 16:40:15,090 - BasicTS-study - INFO - Checkpoint /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/target_first/linear/seed1/basicts/4a74fff7743c4c5d4bb1aae524a556bd/Linear_best_val_MSE.pt saved
+2026-11-02 16:40:15,099 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:40:15,100 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9022, val/MSE: 0.9022, val/MAE: 0.6394]
+2026-11-02 16:40:15,101 - BasicTS-study - INFO - Checkpoint /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/target_first/linear/seed1/basicts/4a74fff7743c4c5d4bb1aae524a556bd/Linear_best_val_MSE.pt saved
+2026-11-02 16:40:15,110 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:40:15,111 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8963, val/MSE: 0.8963, val/MAE: 0.6373]
+2026-11-02 16:40:15,112 - BasicTS-study - INFO - Checkpoint /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/target_first/linear/seed1/basicts/4a74fff7743c4c5d4bb1aae524a556bd/Linear_best_val_MSE.pt saved
+2026-11-02 16:40:15,121 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:40:15,122 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8953, val/MSE: 0.8953, val/MAE: 0.6363]
+2026-11-02 16:40:15,123 - BasicTS-study - INFO - Checkpoint /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/target_first/linear/seed1/basicts/4a74fff7743c4c5d4bb1aae524a556bd/Linear_best_val_MSE.pt saved
+2026-11-02 16:40:15,132 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:40:15,133 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8809, val/MSE: 0.8809, val/MAE: 0.6313]
+2026-11-02 16:40:15,133 - BasicTS-study - INFO - Checkpoint /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/target_first/linear/seed1/basicts/4a74fff7743c4c5d4bb1aae524a556bd/Linear_best_val_MSE.pt saved
+2026-11-02 16:40:15,142 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:40:15,143 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8884, val/MSE: 0.8884, val/MAE: 0.6335]
+2026-11-02 16:40:15,151 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:40:15,152 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8832, val/MSE: 0.8832, val/MAE: 0.6318]
+2026-11-02 16:40:15,161 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:40:15,162 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8827, val/MSE: 0.8827, val/MAE: 0.6313]
+2026-11-02 16:40:15,171 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:40:15,171 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8790, val/MSE: 0.8790, val/MAE: 0.6295]
+2026-11-02 16:40:15,172 - BasicTS-study - INFO - Checkpoint /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/target_first/linear/seed1/basicts/4a74fff7743c4c5d4bb1aae524a556bd/Linear_best_val_MSE.pt saved
+2026-11-02 16:40:15,178 - BasicTS-study - INFO - Start validation.
+2026-11-02 16:40:15,179 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8827, val/MSE: 0.8827, val/MAE: 0.6300]
+2026-11-02 16:40:15,180 - BasicTS-study - INFO - The training finished at 2026-11-02 16:40:15
+2026-11-02 16:40:15,181 - BasicTS-study - INFO - Loading Checkpoint from '/Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/target_first/linear/seed1/final.pt'
+2026-11-02 16:40:15,196 - BasicTS-study - INFO - Result <test>: [test/time: 0.02 (s), test/loss: 0.3951, test/MSE: 0.3951, test/MAE: 0.5120]
+2026-11-02 16:40:15,198 - BasicTS-study - INFO - Test metrics saved to /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/study/group3/target_first/linear/seed1/basicts/4a74fff7743c4c5d4bb1aae524a556bd/test_metrics.json.

@@ -1,0 +1,19 @@
+2026-11-02 16:39:38,890 - easytorch-env - INFO - Use deterministic algorithms.
+2026-11-02 16:39:38,890 - BasicTS - INFO - Building model.
+2026-11-02 16:39:38,890 - BasicTS - INFO - Set ckpt save dir: "/Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/smoke/group3/random/linear/seed1/basicts/06cd886896407ad3ac6c5089bb2c3360"
+2026-11-02 16:39:38,892 - BasicTS-study - INFO - Initializing training.
+2026-11-02 16:39:38,892 - BasicTS-study - INFO - Building train data loader.
+2026-11-02 16:39:39,471 - BasicTS-study - INFO - Set optim: Adam
+2026-11-02 16:39:39,471 - BasicTS-study - INFO - Building val data loader.
+2026-11-02 16:39:39,486 - BasicTS-study - INFO - Building test data loader.
+2026-11-02 16:39:39,499 - BasicTS-study - INFO - Total parameters: 75
+2026-11-02 16:39:39,499 - BasicTS-study - INFO - Trainable parameters: 75
+ 25%|██▌       | 1/4 [00:00<?, ?it/s] 50%|█████     | 2/4 [00:00<00:00, 57.63it/s] 75%|███████▌  | 3/4 [00:00<00:00, 132.99it/s]2026-11-02 16:39:39,661 - BasicTS-study - INFO - Start validation.
+
+  0%|          | 0/1 [00:00<?, ?it/s][A
+                                     [A2026-11-02 16:39:39,664 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.4605, val/MSE: 1.4605, val/MAE: 0.8307]
+2026-11-02 16:39:39,665 - BasicTS-study - INFO - Checkpoint /Users/aprameyatirupati/Documents/School/VIP/curricular_learning_econ_group/fredmd-group-curriculum-study/results/smoke/group3/random/linear/seed1/basicts/06cd886896407ad3ac6c5089bb2c3360/Linear_best_val_MSE.pt saved
+100%|██████████| 4/4 [00:00<00:00, 163.13it/s]100%|██████████| 4/4 [00:00<00:00, 133.10it/s]
+2026-11-02 16:39:39,665 - BasicTS-study - INFO - The training finished at 2026-11-02 16:39:39
+Matplotlib is building the font cache; this may take a moment.
+{'group': 3, 'model': 'linear', 'order': 'random', 'seed': 1, 'smoke_only': True, 'updates': 3, 'training_seconds': 0.01624949974939227, 'device': 'cpu', 'torch_threads': 1, 'initial_checkpoint_sha256': '16eb46d9b3870b02a6092452ad70f7970268f9a004616eba4ac99a23ae3622f9', 'snapshot_sha256': 'd6e239038afbdbf4667c2a63c13c942817bc196fedab4355cd7e0d353ecdd65d', 'freeze_sha256': '5b095334de6612a9be6002a1f8d72b0a7f795e938bb699b05ca2dd85dd3d737b', 'training_timing': 'step computation after batch fetch; excludes validation, testing, and plotting'}
