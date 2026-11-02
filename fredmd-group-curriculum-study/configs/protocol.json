@@ -1,0 +1,36 @@
+{
+  "study": "brief_group_selection_and_ordering",
+  "assignment": "Teammate 2",
+  "group": 1,
+  "target": "INDPRO",
+  "snapshot": "2026-09",
+  "seed": 1,
+  "scaling_ddof": 0,
+  "input_len": 24,
+  "output_len": 3,
+  "train_years": [
+    1960,
+    1999
+  ],
+  "validation_years": [
+    2000,
+    2009
+  ],
+  "test_years": [
+    2010,
+    2019
+  ],
+  "batch_size": 32,
+  "target_batches": 300,
+  "auxiliary_batches": 500,
+  "controls": [
+    300,
+    800
+  ],
+  "backend": "cpu",
+  "precision": "float32",
+  "threads": 1,
+  "basicts_commit": "c2bb6e31e591167e84459775a21a62e70a5893ce",
+  "transformation_policy": "Official CSV codes; 100*log-difference for INDPRO and PAYEMS; other code-5 series use ordinary log-differences, equivalent after separate standardization.",
+  "backend_note": "CPU reference implementation. Team must agree on shared backend before accepting comparative study runs; do not compare timings across hardware."
+}

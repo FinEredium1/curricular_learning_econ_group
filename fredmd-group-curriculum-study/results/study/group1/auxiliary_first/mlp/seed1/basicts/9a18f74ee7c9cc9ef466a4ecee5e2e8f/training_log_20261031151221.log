@@ -1,0 +1,83 @@
+2026-10-31 15:12:21,010 - BasicTS-study - INFO - Initializing training.
+2026-10-31 15:12:21,010 - BasicTS-study - INFO - Building train data loader.
+2026-10-31 15:12:21,327 - BasicTS-study - INFO - Set optim: Adam
+2026-10-31 15:12:21,327 - BasicTS-study - INFO - Building val data loader.
+2026-10-31 15:12:21,340 - BasicTS-study - INFO - Building test data loader.
+2026-10-31 15:12:21,352 - BasicTS-study - INFO - Total parameters: 1795
+2026-10-31 15:12:21,352 - BasicTS-study - INFO - Trainable parameters: 1795
+2026-10-31 15:12:21,382 - BasicTS-study - INFO - Start validation.
+2026-10-31 15:12:21,384 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.2326, val/MSE: 1.2326, val/MAE: 0.7479]
+2026-10-31 15:12:21,385 - BasicTS-study - INFO - Checkpoint /Users/jquang/Documents/College/004-Fall-2026/VIP/fredmd-group-curriculum-study/results/study/group1/auxiliary_first/mlp/seed1/basicts/9a18f74ee7c9cc9ef466a4ecee5e2e8f/MLP_best_val_MSE.pt saved
+2026-10-31 15:12:21,398 - BasicTS-study - INFO - Start validation.
+2026-10-31 15:12:21,399 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.1437, val/MSE: 1.1437, val/MAE: 0.7232]
+2026-10-31 15:12:21,400 - BasicTS-study - INFO - Checkpoint /Users/jquang/Documents/College/004-Fall-2026/VIP/fredmd-group-curriculum-study/results/study/group1/auxiliary_first/mlp/seed1/basicts/9a18f74ee7c9cc9ef466a4ecee5e2e8f/MLP_best_val_MSE.pt saved
+2026-10-31 15:12:21,412 - BasicTS-study - INFO - Start validation.
+2026-10-31 15:12:21,413 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.1029, val/MSE: 1.1029, val/MAE: 0.7098]
+2026-10-31 15:12:21,413 - BasicTS-study - INFO - Checkpoint /Users/jquang/Documents/College/004-Fall-2026/VIP/fredmd-group-curriculum-study/results/study/group1/auxiliary_first/mlp/seed1/basicts/9a18f74ee7c9cc9ef466a4ecee5e2e8f/MLP_best_val_MSE.pt saved
+2026-10-31 15:12:21,426 - BasicTS-study - INFO - Start validation.
+2026-10-31 15:12:21,427 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.0838, val/MSE: 1.0838, val/MAE: 0.7069]
+2026-10-31 15:12:21,427 - BasicTS-study - INFO - Checkpoint /Users/jquang/Documents/College/004-Fall-2026/VIP/fredmd-group-curriculum-study/results/study/group1/auxiliary_first/mlp/seed1/basicts/9a18f74ee7c9cc9ef466a4ecee5e2e8f/MLP_best_val_MSE.pt saved
+2026-10-31 15:12:21,440 - BasicTS-study - INFO - Start validation.
+2026-10-31 15:12:21,441 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.0486, val/MSE: 1.0486, val/MAE: 0.6924]
+2026-10-31 15:12:21,441 - BasicTS-study - INFO - Checkpoint /Users/jquang/Documents/College/004-Fall-2026/VIP/fredmd-group-curriculum-study/results/study/group1/auxiliary_first/mlp/seed1/basicts/9a18f74ee7c9cc9ef466a4ecee5e2e8f/MLP_best_val_MSE.pt saved
+2026-10-31 15:12:21,454 - BasicTS-study - INFO - Start validation.
+2026-10-31 15:12:21,455 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.0417, val/MSE: 1.0417, val/MAE: 0.6895]
+2026-10-31 15:12:21,455 - BasicTS-study - INFO - Checkpoint /Users/jquang/Documents/College/004-Fall-2026/VIP/fredmd-group-curriculum-study/results/study/group1/auxiliary_first/mlp/seed1/basicts/9a18f74ee7c9cc9ef466a4ecee5e2e8f/MLP_best_val_MSE.pt saved
+2026-10-31 15:12:21,467 - BasicTS-study - INFO - Start validation.
+2026-10-31 15:12:21,468 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.0383, val/MSE: 1.0383, val/MAE: 0.6886]
+2026-10-31 15:12:21,469 - BasicTS-study - INFO - Checkpoint /Users/jquang/Documents/College/004-Fall-2026/VIP/fredmd-group-curriculum-study/results/study/group1/auxiliary_first/mlp/seed1/basicts/9a18f74ee7c9cc9ef466a4ecee5e2e8f/MLP_best_val_MSE.pt saved
+2026-10-31 15:12:21,481 - BasicTS-study - INFO - Start validation.
+2026-10-31 15:12:21,482 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.0236, val/MSE: 1.0236, val/MAE: 0.6825]
+2026-10-31 15:12:21,483 - BasicTS-study - INFO - Checkpoint /Users/jquang/Documents/College/004-Fall-2026/VIP/fredmd-group-curriculum-study/results/study/group1/auxiliary_first/mlp/seed1/basicts/9a18f74ee7c9cc9ef466a4ecee5e2e8f/MLP_best_val_MSE.pt saved
+2026-10-31 15:12:21,495 - BasicTS-study - INFO - Start validation.
+2026-10-31 15:12:21,496 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9888, val/MSE: 0.9888, val/MAE: 0.6664]
+2026-10-31 15:12:21,496 - BasicTS-study - INFO - Checkpoint /Users/jquang/Documents/College/004-Fall-2026/VIP/fredmd-group-curriculum-study/results/study/group1/auxiliary_first/mlp/seed1/basicts/9a18f74ee7c9cc9ef466a4ecee5e2e8f/MLP_best_val_MSE.pt saved
+2026-10-31 15:12:21,508 - BasicTS-study - INFO - Start validation.
+2026-10-31 15:12:21,509 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.0243, val/MSE: 1.0243, val/MAE: 0.6812]
+2026-10-31 15:12:21,521 - BasicTS-study - INFO - Start validation.
+2026-10-31 15:12:21,522 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9986, val/MSE: 0.9986, val/MAE: 0.6708]
+2026-10-31 15:12:21,534 - BasicTS-study - INFO - Start validation.
+2026-10-31 15:12:21,535 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9584, val/MSE: 0.9584, val/MAE: 0.6526]
+2026-10-31 15:12:21,536 - BasicTS-study - INFO - Checkpoint /Users/jquang/Documents/College/004-Fall-2026/VIP/fredmd-group-curriculum-study/results/study/group1/auxiliary_first/mlp/seed1/basicts/9a18f74ee7c9cc9ef466a4ecee5e2e8f/MLP_best_val_MSE.pt saved
+2026-10-31 15:12:21,547 - BasicTS-study - INFO - Start validation.
+2026-10-31 15:12:21,548 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 1.0239, val/MSE: 1.0239, val/MAE: 0.6797]
+2026-10-31 15:12:21,560 - BasicTS-study - INFO - Start validation.
+2026-10-31 15:12:21,561 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9917, val/MSE: 0.9917, val/MAE: 0.6654]
+2026-10-31 15:12:21,573 - BasicTS-study - INFO - Start validation.
+2026-10-31 15:12:21,574 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9563, val/MSE: 0.9563, val/MAE: 0.6541]
+2026-10-31 15:12:21,574 - BasicTS-study - INFO - Checkpoint /Users/jquang/Documents/College/004-Fall-2026/VIP/fredmd-group-curriculum-study/results/study/group1/auxiliary_first/mlp/seed1/basicts/9a18f74ee7c9cc9ef466a4ecee5e2e8f/MLP_best_val_MSE.pt saved
+2026-10-31 15:12:21,586 - BasicTS-study - INFO - Start validation.
+2026-10-31 15:12:21,587 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9715, val/MSE: 0.9715, val/MAE: 0.6586]
+2026-10-31 15:12:21,599 - BasicTS-study - INFO - Start validation.
+2026-10-31 15:12:21,600 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9826, val/MSE: 0.9826, val/MAE: 0.6590]
+2026-10-31 15:12:21,612 - BasicTS-study - INFO - Start validation.
+2026-10-31 15:12:21,613 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9456, val/MSE: 0.9456, val/MAE: 0.6486]
+2026-10-31 15:12:21,613 - BasicTS-study - INFO - Checkpoint /Users/jquang/Documents/College/004-Fall-2026/VIP/fredmd-group-curriculum-study/results/study/group1/auxiliary_first/mlp/seed1/basicts/9a18f74ee7c9cc9ef466a4ecee5e2e8f/MLP_best_val_MSE.pt saved
+2026-10-31 15:12:21,625 - BasicTS-study - INFO - Start validation.
+2026-10-31 15:12:21,626 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9360, val/MSE: 0.9360, val/MAE: 0.6462]
+2026-10-31 15:12:21,626 - BasicTS-study - INFO - Checkpoint /Users/jquang/Documents/College/004-Fall-2026/VIP/fredmd-group-curriculum-study/results/study/group1/auxiliary_first/mlp/seed1/basicts/9a18f74ee7c9cc9ef466a4ecee5e2e8f/MLP_best_val_MSE.pt saved
+2026-10-31 15:12:21,639 - BasicTS-study - INFO - Start validation.
+2026-10-31 15:12:21,640 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9348, val/MSE: 0.9348, val/MAE: 0.6457]
+2026-10-31 15:12:21,640 - BasicTS-study - INFO - Checkpoint /Users/jquang/Documents/College/004-Fall-2026/VIP/fredmd-group-curriculum-study/results/study/group1/auxiliary_first/mlp/seed1/basicts/9a18f74ee7c9cc9ef466a4ecee5e2e8f/MLP_best_val_MSE.pt saved
+2026-10-31 15:12:21,652 - BasicTS-study - INFO - Start validation.
+2026-10-31 15:12:21,653 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9169, val/MSE: 0.9169, val/MAE: 0.6386]
+2026-10-31 15:12:21,654 - BasicTS-study - INFO - Checkpoint /Users/jquang/Documents/College/004-Fall-2026/VIP/fredmd-group-curriculum-study/results/study/group1/auxiliary_first/mlp/seed1/basicts/9a18f74ee7c9cc9ef466a4ecee5e2e8f/MLP_best_val_MSE.pt saved
+2026-10-31 15:12:21,665 - BasicTS-study - INFO - Start validation.
+2026-10-31 15:12:21,666 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9100, val/MSE: 0.9100, val/MAE: 0.6338]
+2026-10-31 15:12:21,667 - BasicTS-study - INFO - Checkpoint /Users/jquang/Documents/College/004-Fall-2026/VIP/fredmd-group-curriculum-study/results/study/group1/auxiliary_first/mlp/seed1/basicts/9a18f74ee7c9cc9ef466a4ecee5e2e8f/MLP_best_val_MSE.pt saved
+2026-10-31 15:12:21,679 - BasicTS-study - INFO - Start validation.
+2026-10-31 15:12:21,680 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8997, val/MSE: 0.8997, val/MAE: 0.6329]
+2026-10-31 15:12:21,680 - BasicTS-study - INFO - Checkpoint /Users/jquang/Documents/College/004-Fall-2026/VIP/fredmd-group-curriculum-study/results/study/group1/auxiliary_first/mlp/seed1/basicts/9a18f74ee7c9cc9ef466a4ecee5e2e8f/MLP_best_val_MSE.pt saved
+2026-10-31 15:12:21,692 - BasicTS-study - INFO - Start validation.
+2026-10-31 15:12:21,693 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9109, val/MSE: 0.9109, val/MAE: 0.6426]
+2026-10-31 15:12:21,705 - BasicTS-study - INFO - Start validation.
+2026-10-31 15:12:21,706 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.8995, val/MSE: 0.8995, val/MAE: 0.6389]
+2026-10-31 15:12:21,706 - BasicTS-study - INFO - Checkpoint /Users/jquang/Documents/College/004-Fall-2026/VIP/fredmd-group-curriculum-study/results/study/group1/auxiliary_first/mlp/seed1/basicts/9a18f74ee7c9cc9ef466a4ecee5e2e8f/MLP_best_val_MSE.pt saved
+2026-10-31 15:12:21,718 - BasicTS-study - INFO - Start validation.
+2026-10-31 15:12:21,719 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9151, val/MSE: 0.9151, val/MAE: 0.6478]
+2026-10-31 15:12:21,727 - BasicTS-study - INFO - Start validation.
+2026-10-31 15:12:21,728 - BasicTS-study - INFO - Result <val>: [val/time: 0.00 (s), val/loss: 0.9196, val/MSE: 0.9196, val/MAE: 0.6513]
+2026-10-31 15:12:21,728 - BasicTS-study - INFO - The training finished at 2026-10-31 15:12:21
+2026-10-31 15:12:21,729 - BasicTS-study - INFO - Loading Checkpoint from '/Users/jquang/Documents/College/004-Fall-2026/VIP/fredmd-group-curriculum-study/results/study/group1/auxiliary_first/mlp/seed1/final.pt'
+2026-10-31 15:12:21,743 - BasicTS-study - INFO - Result <test>: [test/time: 0.01 (s), test/loss: 0.4114, test/MSE: 0.4114, test/MAE: 0.5287]
+2026-10-31 15:12:21,744 - BasicTS-study - INFO - Test metrics saved to /Users/jquang/Documents/College/004-Fall-2026/VIP/fredmd-group-curriculum-study/results/study/group1/auxiliary_first/mlp/seed1/basicts/9a18f74ee7c9cc9ef466a4ecee5e2e8f/test_metrics.json.

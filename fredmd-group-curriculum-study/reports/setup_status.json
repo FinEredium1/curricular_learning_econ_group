@@ -1,0 +1,50 @@
+{
+  "assignment": "Teammate 2",
+  "group": 1,
+  "auxiliary_series": [
+    "CUMFNS",
+    "IPB51222S",
+    "IPBUSEQ",
+    "IPCONGD",
+    "IPDCONGD",
+    "IPDMAT",
+    "IPFINAL",
+    "IPFPNSS",
+    "IPFUELS",
+    "IPMANSICS",
+    "IPMAT",
+    "IPNCONGD",
+    "IPNMAT",
+    "RPI",
+    "W875RX1"
+  ],
+  "snapshot_sha256": "d6e239038afbdbf4667c2a63c13c942817bc196fedab4355cd7e0d353ecdd65d",
+  "indpro_window_counts": {
+    "train": 465,
+    "val": 118,
+    "test": 118
+  },
+  "unit_checks_passed": 7,
+  "smoke_checks": {
+    "linear": {
+      "updates": 3,
+      "smoke_only": true,
+      "test_evaluated": false
+    },
+    "mlp": {
+      "updates": 3,
+      "smoke_only": true,
+      "test_evaluated": false
+    },
+    "patchtst": {
+      "updates": 3,
+      "smoke_only": true,
+      "test_evaluated": false
+    }
+  },
+  "research_runs_completed": 0,
+  "backend": "cpu",
+  "precision": "float32",
+  "torch_threads": 1,
+  "next_milestone": "Share and agree the frozen common setup, then execute random mixing and shared 800-update controls before the other orders."
+}
